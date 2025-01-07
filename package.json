@@ -11,6 +11,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "crawlee": "^3.12.1"
+    "axios": "^1.7.9",
+    "crawlee": "^3.12.1",
+    "dayjs": "^1.11.13",
+    "playwright": "^1.49.1"
   }
 }
