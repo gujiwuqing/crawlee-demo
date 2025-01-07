@@ -2,7 +2,6 @@ import { PlaywrightCrawler } from 'crawlee';
 import fs from 'fs';
 import path from 'path';
 import dayjs from 'dayjs';
-
 import { sleep, requestDownloadImage } from '../../utils/index.js'
 
 // 图片保存路径
@@ -13,6 +12,8 @@ if (!fs.existsSync(downloadDir)) {
 }
 console.log(`图片将保存到: ${downloadDir}`);
 
+// 记录已访问的 URL
+const visitedUrls = new Set();
 
 // 主爬虫逻辑
 const crawler = new PlaywrightCrawler({
@@ -20,16 +21,14 @@ const crawler = new PlaywrightCrawler({
     maxConcurrency: 5,
     requestHandlerTimeoutSecs: 120,
     async requestHandler({ page, request, log }) {
-        const detailUrl = 'https://kkmzt.com/photo/59028';
-        log.info(`访问详情页: ${detailUrl}`);
-
-        // 调整 waitUntil 参数，使用 'networkidle' 或 'domcontentloaded'
-        try {
-            await page.goto(detailUrl, { waitUntil: 'networkidle' });
-        } catch (error) {
-            log.error(`访问页面失败: ${error.message}`);
-            return; // 返回错误
+        const detailUrl = request.url;  // 使用传入的请求 URL
+        if (visitedUrls.has(detailUrl)) {
+            log.info(`页面已访问过，跳过: ${detailUrl}`);
+            return; // 如果已经访问过该页面，跳过
         }
+
+        visitedUrls.add(detailUrl); // 标记该页面已访问
+        log.info(`访问详情页: ${detailUrl}`);
 
         // 滚动加载所有内容
         log.info('滚动加载内容...');
