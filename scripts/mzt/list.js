@@ -1,21 +1,13 @@
 import { PlaywrightCrawler, Dataset } from 'crawlee';
 import fs from 'fs';
 import path from 'path';
+import { downloadImage } from '../../utils/index.js'
 
 // 图片保存路径
 const downloadDir = path.resolve('./kkmzt-images');
 if (!fs.existsSync(downloadDir)) {
     fs.mkdirSync(downloadDir);
 }
-
-// 图片下载函数
-const downloadImage = async (url, filepath) => {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`Failed to fetch image: ${response.statusText}`);
-    const buffer = await response.arrayBuffer();
-    fs.writeFileSync(filepath, Buffer.from(buffer));
-    console.log(`成功下载图片: ${filepath}`);
-};
 
 // 主爬虫逻辑
 const crawler = new PlaywrightCrawler({

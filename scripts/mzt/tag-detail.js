@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
 import dayjs from 'dayjs';
-import { sleep } from '../../utils/index.js'
+import { sleep, requestDownloadImage } from '../../utils/index.js'
 
 const downloadDir = path.resolve(`./kkmzt-detail-images/${dayjs().format('YYYY-MM-DD')}`);
 
@@ -12,28 +12,6 @@ if (!fs.existsSync(downloadDir)) {
     fs.mkdirSync(downloadDir, { recursive: true });
 }
 console.log(`图片将保存到: ${downloadDir}`);
-
-// 图片下载函数
-const downloadImage = async (url, savePath) => {
-    try {
-        const writer = fs.createWriteStream(savePath);
-        const response = await axios({
-            method: 'get',
-            url,
-            responseType: 'stream',
-        });
-
-        response.data.pipe(writer);
-        await new Promise((resolve, reject) => {
-            writer.on('finish', resolve);
-            writer.on('error', reject);
-        });
-
-        console.log(`图片下载成功: ${savePath}`);
-    } catch (error) {
-        console.error(`图片下载失败: ${url}, 错误原因: ${error.message}`);
-    }
-};
 
 // 详情页爬取逻辑
 const scrapeDetailPage = async ({ page, log }) => {
@@ -53,7 +31,7 @@ const scrapeDetailPage = async ({ page, log }) => {
             const imageName = path.basename(currentImage);
             const imagePath = path.join(downloadDir, imageName);
 
-            await downloadImage(currentImage, imagePath);
+            await requestDownloadImage(currentImage, imagePath);
 
             // 随机延时 2-3 秒
             const delay = Math.random() * 1000 + 2000;

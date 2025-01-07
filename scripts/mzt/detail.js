@@ -1,8 +1,9 @@
 import { PlaywrightCrawler } from 'crawlee';
 import fs from 'fs';
 import path from 'path';
-import axios from 'axios';
 import dayjs from 'dayjs';
+
+import { sleep, requestDownloadImage } from '../../utils/index.js'
 
 // 图片保存路径
 const today = dayjs().format('YYYY-MM-DD');
@@ -12,24 +13,6 @@ if (!fs.existsSync(downloadDir)) {
 }
 console.log(`图片将保存到: ${downloadDir}`);
 
-const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
-
-// 图片下载函数
-const downloadImage = async (url, filepath) => {
-    const response = await axios({
-        method: 'get',
-        url,
-        responseType: 'stream',
-    });
-
-    const writer = fs.createWriteStream(filepath);
-    response.data.pipe(writer);
-
-    return new Promise((resolve, reject) => {
-        writer.on('finish', resolve);
-        writer.on('error', reject);
-    });
-};
 
 // 主爬虫逻辑
 const crawler = new PlaywrightCrawler({
@@ -86,7 +69,7 @@ const scrapeDetailPage = async (page, log) => {
             try {
                 // 下载图片
                 log.info(`正在下载: ${imagePath}`);
-                await downloadImage(currentImage, imagePath);
+                await requestDownloadImage(currentImage, imagePath);
                 log.info(`图片下载成功: ${imagePath}`);
             } catch (error) {
                 log.error(`下载失败: ${currentImage}, 错误原因: ${error.message}`);
