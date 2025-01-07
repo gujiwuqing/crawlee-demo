@@ -3,9 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import axios from 'axios';
 import dayjs from 'dayjs';
-
-// 延迟函数
-const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
+import { sleep } from '../../utils/index.js'
 
 const downloadDir = path.resolve(`./kkmzt-detail-images/${dayjs().format('YYYY-MM-DD')}`);
 
