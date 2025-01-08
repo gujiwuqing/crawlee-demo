@@ -8,6 +8,7 @@
     "start": "npm run start:dev",
     "start:prod": "node dist/main.js",
     "start:dev": "tsx src/main.ts",
+    "task": "tsx src/main.js",
     "build": "tsc"
   },
   "keywords": [
