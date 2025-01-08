@@ -4,16 +4,28 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run start:dev",
+    "start:prod": "node dist/main.js",
+    "start:dev": "tsx src/main.ts",
+    "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "crawlee"
+  ],
+  "author": "gujiwuqing",
   "license": "ISC",
-  "description": "",
+  "description": "crawlee-demo",
   "dependencies": {
     "axios": "^1.7.9",
     "crawlee": "^3.12.1",
     "dayjs": "^1.11.13",
     "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "@apify/tsconfig": "^0.1.0",
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "~5.7.2"
   }
 }
