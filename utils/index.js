@@ -1,6 +1,7 @@
 import path from 'path';
 import fs from 'fs/promises';
 import dayjs from 'dayjs';
+import axios from 'axios';
 
 /**
  * 确保目录存在
@@ -44,3 +45,35 @@ export const randomDelay = (min, max) => {
     const delay = Math.floor(Math.random() * (max - min + 1) + min);
     return new Promise(resolve => setTimeout(resolve, delay));
 };
+
+
+// 图片下载函数
+export const downloadImage = async (url, filepath) => {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error(`Failed to fetch image: ${response.statusText}`);
+    const buffer = await response.arrayBuffer();
+    fs.writeFileSync(filepath, Buffer.from(buffer));
+    console.log(`成功下载图片: ${filepath}`);
+};
+
+export const requestDownloadImage = async (url, filepath) => {
+    const response = await axios({
+        method: 'get',
+        url,
+        responseType: 'stream',
+    });
+    // 确保目录存在
+    await ensureDir(savePath);
+
+    const writer = fs.createWriteStream(filepath);
+    response.data.pipe(writer);
+    // 保存文件
+    const filePath = path.join(savePath, `${subDir}.json`);
+    await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf8');
+    console.log(`数据已保存到: ${filePath}`);
+}
+
+return new Promise((resolve, reject) => {
+    writer.on('finish', resolve);
+    writer.on('error', reject);
+});
