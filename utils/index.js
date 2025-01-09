@@ -7,11 +7,9 @@ import axios from 'axios';
  * 确保目录存在
  * @param {string} dirPath - 目录路径
  */
-export async function ensureDir(dirPath) {
-    try {
-        await fs.access(dirPath);
-    } catch {
-        await fs.mkdir(dirPath, { recursive: true });
+export function ensureDir(dirPath) {
+    if (!fs.existsSync(dirPath)) {
+        fs.mkdirSync(dirPath, { recursive: true });
     }
 }
 
@@ -21,17 +19,17 @@ export async function ensureDir(dirPath) {
  * @param {string} currentFilePath - 当前文件的路径 (import.meta.url)
  * @param {string} subDir - 子目录名称 (如: 'frontend', 'hot-articles')
  */
-export async function saveToFile(data, currentFilePath, subDir) {
+export function saveToFile(data, currentFilePath, subDir) {
     // 获取当前文件所在目录
     const currentDir = path.dirname(new URL(currentFilePath).pathname);
     const savePath = path.join(currentDir, subDir, dayjs().format('YYYY-MM-DD'));
 
     // 确保目录存在
-    await ensureDir(savePath);
+    ensureDir(savePath);
 
     // 保存文件
     const filePath = path.join(savePath, `${subDir}.json`);
-    await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf8');
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
     console.log(`数据已保存到: ${filePath}`);
 }
 
@@ -46,8 +44,11 @@ export const randomDelay = (min, max) => {
     return new Promise(resolve => setTimeout(resolve, delay));
 };
 
-
-// 图片下载函数
+/**
+ * 图片下载函数 (使用 fetch)
+ * @param {string} url - 图片URL
+ * @param {string} filepath - 保存路径
+ */
 export const downloadImage = async (url, filepath) => {
     const response = await fetch(url);
     if (!response.ok) throw new Error(`Failed to fetch image: ${response.statusText}`);
@@ -56,12 +57,11 @@ export const downloadImage = async (url, filepath) => {
     console.log(`成功下载图片: ${filepath}`);
 };
 
-
-
-
-
-
-// 图片下载函数
+/**
+ * 图片下载函数 (使用 axios)
+ * @param {string} url - 图片URL
+ * @param {string} savePath - 保存路径
+ */
 export const requestDownloadImage = async (url, savePath) => {
     try {
         const writer = fs.createWriteStream(savePath);
@@ -69,16 +69,19 @@ export const requestDownloadImage = async (url, savePath) => {
             method: 'get',
             url,
             responseType: 'stream',
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                'Referer': 'https://www.mtku.net/'
+            }
         });
 
         response.data.pipe(writer);
-        await new Promise((resolve, reject) => {
+        return new Promise((resolve, reject) => {
             writer.on('finish', resolve);
             writer.on('error', reject);
         });
-
-        console.log(`图片下载成功: ${savePath}`);
     } catch (error) {
         console.error(`图片下载失败: ${url}, 错误原因: ${error.message}`);
+        throw error; // 重新抛出错误，让调用者处理
     }
 };
