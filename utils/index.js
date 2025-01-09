@@ -1,5 +1,5 @@
 import path from 'path';
-import fs from 'fs/promises';
+import fs from 'fs';
 import dayjs from 'dayjs';
 import axios from 'axios';
 
@@ -56,24 +56,29 @@ export const downloadImage = async (url, filepath) => {
     console.log(`成功下载图片: ${filepath}`);
 };
 
-export const requestDownloadImage = async (url, filepath) => {
-    const response = await axios({
-        method: 'get',
-        url,
-        responseType: 'stream',
-    });
-    // 确保目录存在
-    await ensureDir(savePath);
 
-    const writer = fs.createWriteStream(filepath);
-    response.data.pipe(writer);
-    // 保存文件
-    const filePath = path.join(savePath, `${subDir}.json`);
-    await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf8');
-    console.log(`数据已保存到: ${filePath}`);
-}
 
-return new Promise((resolve, reject) => {
-    writer.on('finish', resolve);
-    writer.on('error', reject);
-});
+
+
+
+// 图片下载函数
+export const requestDownloadImage = async (url, savePath) => {
+    try {
+        const writer = fs.createWriteStream(savePath);
+        const response = await axios({
+            method: 'get',
+            url,
+            responseType: 'stream',
+        });
+
+        response.data.pipe(writer);
+        await new Promise((resolve, reject) => {
+            writer.on('finish', resolve);
+            writer.on('error', reject);
+        });
+
+        console.log(`图片下载成功: ${savePath}`);
+    } catch (error) {
+        console.error(`图片下载失败: ${url}, 错误原因: ${error.message}`);
+    }
+};
