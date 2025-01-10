@@ -14,6 +14,9 @@ dependencies:
   dayjs:
     specifier: ^1.11.13
     version: 1.11.13
+  nodemailer:
+    specifier: ^6.9.16
+    version: 6.9.16
   playwright:
     specifier: ^1.49.1
     version: 1.49.1
@@ -1818,6 +1821,11 @@ packages:
 
   /node-releases@2.0.19:
     resolution: {integrity: sha512-xxOWJsBKtzAq7DY0J+DTzuz58K8e7sJbdgwkbMWQe8UYB6ekmsQ45q0M/tJDsGaZmbC+l7n57UV8Hl5tHxO9uw==}
+    dev: false
+
+  /nodemailer@6.9.16:
+    resolution: {integrity: sha512-psAuZdTIRN08HKVd/E8ObdV6NO7NTBY3KsC30F7M4H1OnmLCUNaS56FpYxyb26zWLSyYF9Ozch9KYHhHegsiOQ==}
+    engines: {node: '>=6.0.0'}
     dev: false
 
   /normalize-url@8.0.1:
