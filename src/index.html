@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>日报展示</title>
+    <style>
+      /* 简单的样式 */
+      .tab {
+        display: none;
+      }
+      .tab.active {
+        display: block;
+      }
+      .tabs button {
+        margin-right: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="tabs">
+      <button onclick="showTab('qidian')">起点</button>
+      <button onclick="showTab('zongheng')">纵横</button>
+      <button onclick="showTab('weibo')">微博</button>
+    </div>
+
+    <div id="qidian" class="tab">
+      <h2>起点数据</h2>
+      <pre id="qidian-data"></pre>
+    </div>
+    <div id="zongheng" class="tab">
+      <h2>纵横数据</h2>
+      <pre id="zongheng-data"></pre>
+    </div>
+    <div id="weibo" class="tab">
+      <h2>微博数据</h2>
+      <pre id="weibo-data"></pre>
+    </div>
+
+    <script>
+      function showTab(tabId) {
+        document.querySelectorAll(".tab").forEach((tab) => {
+          tab.classList.remove("active");
+        });
+        document.getElementById(tabId).classList.add("active");
+      }
+
+      // 默认显示第一个Tab
+      showTab("qidian");
+
+      // 加载数据
+      fetch("./scripts/qidian/yuepiao/2025-01-11/yuepiao.json ")
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById("qidian-data").textContent = JSON.stringify(
+            data,
+            null,
+            2
+          );
+        });
+      fetch("./scripts/zongheng/yuepiao/2025-01-11/yuepiao.json")
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById("zongheng-data").textContent = JSON.stringify(
+            data,
+            null,
+            2
+          );
+        });
+      fetch("./scripts/weibo/hot/2025-01-11/hot.json")
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById("weibo-data").textContent = JSON.stringify(
+            data,
+            null,
+            2
+          );
+        });
+    </script>
+  </body>
+</html>

@@ -107,10 +107,15 @@ const crawler = new PlaywrightCrawler({
     },
 });
 
-// 运行爬虫
-try {
-    await crawler.run(['https://tophub.today/n/KqndgxeLl9']);
-    console.log('爬取完成！');
-} catch (error) {
-    console.error('爬取过程中发生错误:', error);
+export async function weibo() {
+    // 运行爬虫
+    try {
+        await crawler.run(['https://tophub.today/n/KqndgxeLl9']);
+        console.log('爬取完成！');
+    } catch (error) {
+        console.error('爬取过程中发生错误:', error);
+    }
+    finally {
+        await crawler.close();
+    }
 }

@@ -129,10 +129,13 @@ const crawler = new PlaywrightCrawler({
 });
 
 // 运行爬虫
-try {
-    console.log('开始爬取起点月票榜...');
-    await crawler.run(['https://www.qidian.com/rank/yuepiao/']);
-    console.log('爬取完成！');
-} catch (error) {
-    console.error('爬取过程中发生错误:', error);
+export async function qidian() {
+    try {
+        console.log('开始爬取起点月票榜...');
+        await crawler.run(['https://www.qidian.com/rank/yuepiao/']);
+        console.log('爬取完成！');
+    } catch (error) {
+        console.error('爬取过程中发生错误:', error);
+    }
+
 }

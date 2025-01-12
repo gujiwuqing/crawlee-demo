@@ -222,13 +222,15 @@ const crawler = new PlaywrightCrawler({
     },
 });
 
-// 运行爬虫
-try {
-    console.log('开始爬取纵横月票榜...');
-    await crawler.run(['https://www.zongheng.com/']);
-    console.log('爬取完成！');
-} catch (error) {
-    console.error('爬取过程中发生错误:', error);
+export async function zongheng() {
+    // 运行爬虫
+    try {
+        console.log('开始爬取纵横月票榜...');
+        await crawler.run(['https://www.zongheng.com/']);
+        console.log('爬取完成！');
+    } catch (error) {
+        console.error('爬取过程中发生错误:', error);
+    }
 }
 
 // 可选：如果需要，也可以添加选择每页显示数量的功能
