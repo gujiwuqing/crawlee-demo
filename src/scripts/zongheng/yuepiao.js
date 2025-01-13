@@ -222,16 +222,16 @@ const crawler = new PlaywrightCrawler({
     },
 });
 
-export async function zongheng() {
-    // 运行爬虫
-    try {
-        console.log('开始爬取纵横月票榜...');
-        await crawler.run(['https://www.zongheng.com/']);
-        console.log('爬取完成！');
-    } catch (error) {
-        console.error('爬取过程中发生错误:', error);
+export const zongheng = {
+    async run() {
+        try {
+            await crawler.run(['http://www.zongheng.com/rank/details/yuepiao.html']);
+        } catch (error) {
+            console.error('爬取过程中发生错误:', error);
+            throw error;
+        }
     }
-}
+};
 
 // 可选：如果需要，也可以添加选择每页显示数量的功能
 async function selectPageSize(page, size) {

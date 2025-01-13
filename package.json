@@ -8,7 +8,7 @@
     "start": "npm run start:dev",
     "start:prod": "node dist/main.js",
     "start:dev": "tsx src/main.ts",
-    "task": "tsx src/main.js",
+    "task": "node src/main.js",
     "build": "tsc"
   },
   "keywords": [
@@ -29,6 +29,6 @@
     "@apify/tsconfig": "^0.1.0",
     "@types/node": "^22.10.5",
     "tsx": "^4.19.2",
-    "typescript": "~5.7.2"
+    "typescript": "~5.7.3"
   }
 }

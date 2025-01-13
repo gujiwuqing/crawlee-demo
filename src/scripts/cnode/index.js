@@ -113,15 +113,21 @@ const crawler = new PlaywrightCrawler({
 // 设置爬取页数并运行爬虫
 const MAX_PAGES = 2; // 设置要爬取的页数
 
-try {
-    await crawler.run([{
-        url: 'https://cnodejs.org/',
-        userData: {
-            page: 1,
-            maxPages: MAX_PAGES,
-        },
-    }]);
-    console.log('爬取完成！');
-} catch (error) {
-    console.error('爬取过程中发生错误:', error);
-}
+const cnodeArticles = {
+    async run() {
+        try {
+            await crawler.run([{
+                url: 'https://cnodejs.org/',
+                userData: {
+                    page: 1,
+                    maxPages: MAX_PAGES,
+                },
+            }]);
+        } catch (error) {
+            console.error('爬取过程中发生错误:', error);
+            throw error; // 向上传递错误
+        }
+    }
+};
+
+export default cnodeArticles;
