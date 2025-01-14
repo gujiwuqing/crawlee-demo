@@ -2,10 +2,10 @@ import { PlaywrightCrawler, sleep } from 'crawlee';
 import fs from 'fs';
 import path from 'path';
 import dayjs from 'dayjs';
-import { requestDownloadImage } from '../../../utils/index.js'
+import { downloadImage } from '../../../utils/index.js'
 
 
-const downloadDir = path.resolve(`./kkmzt-detail-images/${dayjs().format('YYYY-MM-DD')}`);
+const downloadDir = path.resolve(`./kkmzt-detail-images/2025-01-13`);
 
 // 确保保存目录存在
 if (!fs.existsSync(downloadDir)) {
@@ -36,7 +36,7 @@ const scrapeDetailPage = async ({ page, log }) => {
                 const imagePath = path.join(downloadDir, imageName);
 
                 // 添加重试机制
-                await requestDownloadImage(currentImage, imagePath).catch(async (error) => {
+                await downloadImage(currentImage, imagePath).catch(async (error) => {
                     log.error(`下载失败: ${error.message}, 重试中...`);
                     await sleep(2000);
                     return requestDownloadImage(currentImage, imagePath);
@@ -73,7 +73,7 @@ const scrapeDetailPage = async ({ page, log }) => {
                 log.error(`重试${MAX_RETRIES}次后仍然失败，跳过当前页面`);
                 break;
             }
-            log.warn(`出错: ${error.message}, 重试第${retryCount}次`);
+            log.info(`出错: ${error.message}, 重试第${retryCount}次`);
             await sleep(2000);
             continue;
         }
@@ -99,7 +99,7 @@ const crawler = new PlaywrightCrawler({
         const tagPageUrl = request.url;
         log.info(`访问页面: ${tagPageUrl}`);
 
-        const currentDate = dayjs().format('YYYY-MM-DD');
+        const currentDate = '2025-01-13' || dayjs().format('YYYY-MM-DD');
 
         // 优化滚动加载
         log.info('滚动加载内容...');
