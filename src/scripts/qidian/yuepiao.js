@@ -5,7 +5,7 @@ import dayjs from 'dayjs';
 const crawler = new PlaywrightCrawler({
     maxConcurrency: 1,
     requestHandlerTimeoutSecs: 60,
-    headless: false,
+    headless: process.env.CI === 'true',
 
     async requestHandler({ page, log }) {
         try {

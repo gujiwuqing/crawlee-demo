@@ -6,7 +6,8 @@ import dayjs from 'dayjs';
 const crawler = new PlaywrightCrawler({
     maxConcurrency: 1,
     requestHandlerTimeoutSecs: 60,
-    headless: false,
+    // 在 CI 环境中使用 headless 模式
+    headless: process.env.CI === 'true',
 
     async requestHandler({ page, log }) {
         log.info('正在爬取微博热榜数据...');
@@ -107,13 +108,13 @@ const crawler = new PlaywrightCrawler({
     },
 });
 
-export const weibo = {   
+export const weibo = {
     async run() {
-     try {
-         await crawler.run(['https://tophub.today/n/KqndgxeLl9']);
-         console.log('爬取完成！');
-     } catch (error) {
-         console.error('爬取过程中发生错误:', error);
-     }
+        try {
+            await crawler.run(['https://tophub.today/n/KqndgxeLl9']);
+            console.log('爬取完成！');
+        } catch (error) {
+            console.error('爬取过程中发生错误:', error);
+        }
     }
- }
+}

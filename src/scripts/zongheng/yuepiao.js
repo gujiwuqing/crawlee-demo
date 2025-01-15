@@ -6,7 +6,8 @@ import fs from 'fs';
 const crawler = new PlaywrightCrawler({
     maxConcurrency: 1,
     requestHandlerTimeoutSecs: 120,
-    headless: false,
+    // 在 CI 环境中使用 headless 模式
+    headless: process.env.CI === 'true',
 
     async requestHandler({ page, log }) {
         try {

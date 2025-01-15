@@ -25,11 +25,16 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Install Playwright Browsers
-        run: pnpm exec playwright install --with-deps
+      - name: Install Playwright
+        run: |
+          npx playwright install
+          npx playwright install-deps
+
+      - name: Install xvfb
+        run: sudo apt-get install -y xvfb
 
       - name: Run crawler
-        run: node src/main.js
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" node src/main.js
 
       - name: Copy data and index.html
         run: |
