@@ -330,6 +330,12 @@
                     book.category.sub ? " · " + book.category.sub : ""
                   }`;
 
+            // 处理月票显示
+            const monthlyTicket =
+              book.monthlyTicket && !book.monthlyTicket.includes("font-face")
+                ? book.monthlyTicket
+                : "暂无数据";
+
             html += `
                 <div class="item">
                     <div class="rank">${book.rank}</div>
@@ -344,7 +350,7 @@
                                     <a href="${book.author.link}" target="_blank">${book.author.name}</a>
                                 </span>
                                 <span class="category">${category}</span>
-                                <span class="monthly-ticket">月票：${book.monthlyTicket}</span>
+                                <span class="monthly-ticket">月票：${monthlyTicket}</span>
                             </div>
                             <div class="book-desc">${book.description}</div>
                             <div class="book-update">
