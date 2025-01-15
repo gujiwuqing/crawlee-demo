@@ -57,8 +57,8 @@ jobs:
             cp "src/scripts/zongheng/yuepiao/$TODAY/yuepiao.json" "public/data/zongheng/$TODAY.json"
           fi
 
-          if [ -f "src/scripts/weibo/hot/$TODAY/weibo-hot.json" ]; then
-            cp "src/scripts/weibo/hot/$TODAY/weibo-hot.json" "public/data/weibo/$TODAY.json"
+          if [ -f "src/scripts/weibo/weibo-hot/$TODAY/weibo-hot.json" ]; then
+            cp "src/scripts/weibo/weibo-hot/$TODAY/weibo-hot.json" "public/data/weibo/$TODAY.json"
           fi
 
           # 复制 index.html
