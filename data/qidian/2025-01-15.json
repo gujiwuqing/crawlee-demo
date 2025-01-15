@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-15 13:06:59",
+  "timestamp": "2025-01-15 21:14:51",
   "total": 50,
   "books": [
     {
@@ -25,10 +25,11 @@
       },
       "updateTime": "2025-01-15 00:23",
       "rank": "1",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢻𘢺𘢴𘢽𘢾𘢹",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠎𘠙𘠘𘠘𘠎𘠖</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠎𘠙𘠘𘠘𘠎𘠖</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "宿命之环",
@@ -53,10 +54,11 @@
       },
       "updateTime": "2025-01-13 12:30",
       "rank": "2",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢺𘢷𘢶𘢴𘢴𘢻",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠙𘠑𘠒𘠘𘠑𘠒</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠙𘠑𘠒𘠘𘠑𘠒</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "夜无疆",
@@ -81,10 +83,11 @@
       },
       "updateTime": "2025-01-15 04:12",
       "rank": "3",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢺𘢽𘢼𘢴𘢻𘢻",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠙𘠗𘠕𘠘𘠗𘠒</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠙𘠗𘠕𘠘𘠗𘠒</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "谁让他修仙的！",
@@ -109,10 +112,11 @@
       },
       "updateTime": "2025-01-14 21:47",
       "rank": "4",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢺𘢼𘢺𘢾𘢻𘢴",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠙𘠕𘠙𘠐𘠎𘠑</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠙𘠕𘠙𘠐𘠎𘠑</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "轮回乐园",
@@ -137,10 +141,11 @@
       },
       "updateTime": "2025-01-14 22:57",
       "rank": "5",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢿𘢴𘢷𘢴𘢹",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠖𘠘𘠑𘠘𘠓</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠖𘠘𘠑𘠘𘠓</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "没钱修什么仙？",
@@ -165,10 +170,11 @@
       },
       "updateTime": "2025-01-15 12:01",
       "rank": "6",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢿𘢴𘢽𘢶𘢾",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠖𘠘𘠗𘠓𘠘</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠖𘠘𘠗𘠓𘠘</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "玄鉴仙族",
@@ -188,15 +194,16 @@
       "description": "陆江仙熬夜猝死，残魂却附在了一面满是裂痕的青灰色铜镜上，飘落到了浩瀚无垠的修仙世界。凶险难测的大黎山，眉尺河旁小小的村落，一个小家族拾到了这枚镜子，于是传仙道授仙法，开启波澜壮阔的新时代。(家族修仙，不圣母，种田，无系统，群像文)",
       "status": "连载",
       "latestChapter": {
-        "title": "第一千零二十九章 号为宋",
-        "link": "https://www.qidian.com/chapter/1035420986/824534189/"
+        "title": "第一千零三十章 而仙",
+        "link": "https://www.qidian.com/chapter/1035420986/824656998/"
       },
-      "updateTime": "2025-01-14 21:26",
+      "updateTime": "2025-01-15 21:02",
       "rank": "7",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢿𘢼𘢾𘢺𘢼",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠖𘠕𘠐𘠙𘠑</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠖𘠕𘠐𘠙𘠑</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "赤心巡天",
@@ -221,10 +228,11 @@
       },
       "updateTime": "2025-01-15 12:00",
       "rank": "8",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢹𘢴𘢾𘢷𘢿",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠓𘠘𘠐𘠒𘠕</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠓𘠘𘠐𘠒𘠕</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "大道之上",
@@ -244,15 +252,16 @@
       "description": "我的爷爷很古怪，他每天给自己上香，站在自己的灵位前吃蜡烛。村里的人都很怕爷爷。我也很怕爷爷。后来我才发现，他们害怕的不是爷爷，而是我。爷爷也很怕我。……我叫陈实。诚实的陈，老实的实。来阅文旗下网站阅读我的更多作品吧！",
       "status": "连载",
       "latestChapter": {
-        "title": "第四百二十四章 炼刀降魔，辟魔神梭",
-        "link": "https://www.qidian.com/chapter/1039994731/824554298/"
+        "title": "第四百二十五章 仙人灾变",
+        "link": "https://www.qidian.com/chapter/1039994731/824658587/"
       },
-      "updateTime": "2025-01-15 00:04",
+      "updateTime": "2025-01-15 21:03",
       "rank": "9",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢶𘢾𘢼𘢴𘢺",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠒𘠐𘠕𘠑𘠎</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠒𘠐𘠕𘠑𘠎</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "异度旅社",
@@ -277,10 +286,11 @@
       },
       "updateTime": "2025-01-15 11:40",
       "rank": "10",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢶𘢶𘢻𘢽𘢻",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠒𘠒𘠎𘠗𘠓</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠒𘠒𘠎𘠗𘠓</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "神农道君",
@@ -305,10 +315,11 @@
       },
       "updateTime": "2025-01-15 00:55",
       "rank": "11",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢷𘢿𘢴𘢼𘢴",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠑𘠖𘠘𘠙𘠕</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠑𘠖𘠘𘠙𘠕</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "仙工开物",
@@ -333,10 +344,11 @@
       },
       "updateTime": "2025-01-14 23:57",
       "rank": "12",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢷𘢼𘢾𘢹𘢽",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠑𘠕𘠐𘠖𘠎</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠑𘠕𘠐𘠖𘠎</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "1979黄金时代",
@@ -361,10 +373,11 @@
       },
       "updateTime": "2025-01-14 22:48",
       "rank": "13",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢷𘢼𘢺𘢼𘢿",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠑𘠕𘠙𘠕𘠐</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠑𘠕𘠙𘠕𘠐</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "高武纪元",
@@ -389,10 +402,11 @@
       },
       "updateTime": "2025-01-14 23:59",
       "rank": "14",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢴𘢾𘢾𘢽𘢷",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠘𘠐𘠐𘠗𘠑</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠘𘠐𘠐𘠗𘠑</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "志怪书",
@@ -417,10 +431,11 @@
       },
       "updateTime": "2025-01-15 18:42",
       "rank": "15",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢴𘢺𘢷𘢻𘢻",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠘𘠙𘠑𘠎𘠒</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠘𘠙𘠑𘠎𘠒</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "太平令",
@@ -445,10 +460,11 @@
       },
       "updateTime": "2025-01-15 14:11",
       "rank": "16",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢴𘢺𘢺𘢻𘢿",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠘𘠙𘠙𘠗𘠑</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠘𘠙𘠙𘠗𘠑</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "万历明君",
@@ -473,10 +489,11 @@
       },
       "updateTime": "2025-01-13 02:22",
       "rank": "17",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢽𘢿𘢶𘢼𘢹",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠗𘠖𘠒𘠕𘠖</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠗𘠖𘠒𘠕𘠖</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "长夜君主",
@@ -501,10 +518,11 @@
       },
       "updateTime": "2025-01-15 17:30",
       "rank": "18",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢽𘢴𘢹𘢾𘢷",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠗𘠘𘠓𘠐𘠖</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠗𘠘𘠓𘠐𘠖</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "晋末长剑",
@@ -529,10 +547,11 @@
       },
       "updateTime": "2025-01-15 15:28",
       "rank": "19",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢽𘢻𘢿𘢷𘢼",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠗𘠎𘠖𘠑𘠙</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠗𘠎𘠖𘠑𘠙</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "刚准备高考，离婚逆袭系统来了",
@@ -557,10 +576,11 @@
       },
       "updateTime": "2025-01-15 01:41",
       "rank": "20",
-      "monthlyTicket": "@font-face { font-family: oVNaSCFi; src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/oVNaSCFi.ttf') format('truetype'); } .oVNaSCFi { font-family: 'oVNaSCFi' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘢽𘢺𘢿𘢼𘢹",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: cORKRCQr; src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/cORKRCQr.ttf') format('truetype'); } .cORKRCQr { font-family: 'cORKRCQr' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"cORKRCQr\">𘠗𘠙𘠖𘠕𘠐</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"cORKRCQr\">𘠗𘠙𘠖𘠕𘠐</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "重回1982小渔村",
@@ -585,10 +605,11 @@
       },
       "updateTime": "2025-01-14 23:09",
       "rank": "21",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜁𘜂𘜅𘜃𘜉",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜷𘜵𘜸𘜺𘝀</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜷𘜵𘜸𘜺𘝀</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "北齐怪谈",
@@ -613,10 +634,11 @@
       },
       "updateTime": "2025-01-15 06:00",
       "rank": "22",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜁𘜃𘜇𘜂𘜈",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜷𘜺𘜽𘜹𘜹</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜷𘜺𘜽𘜹𘜹</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "那就让她们献上忠诚吧！",
@@ -641,10 +663,11 @@
       },
       "updateTime": "2025-01-15 06:00",
       "rank": "23",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜉𘜈𘜈𘜉",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘝀𘜻𘜾𘜼</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘝀𘜻𘜾𘜼</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "非正常美食文",
@@ -669,10 +692,11 @@
       },
       "updateTime": "2025-01-14 23:24",
       "rank": "24",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜉𘜀𘜇𘜃",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘝀𘜼𘜽𘜺</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘝀𘜼𘜽𘜺</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "龙藏",
@@ -697,10 +721,11 @@
       },
       "updateTime": "2025-01-15 10:00",
       "rank": "25",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜄𘜈𘛾𘜀",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜾𘜻𘜹𘜼</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜾𘜻𘜹𘜼</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "港片：你洪兴仔，慈善大王什么鬼",
@@ -725,10 +750,11 @@
       },
       "updateTime": "2025-01-15 07:01",
       "rank": "26",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜈𘜀𘜁𘜁",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜻𘜼𘜷𘜸</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜻𘜼𘜷𘜸</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "天命之上",
@@ -753,10 +779,11 @@
       },
       "updateTime": "2025-01-14 20:11",
       "rank": "27",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜈𘜂𘜇𘜁",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜻𘜵𘜽𘜷</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜻𘜵𘜽𘜷</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "普罗之主",
@@ -781,10 +808,11 @@
       },
       "updateTime": "2025-01-15 07:00",
       "rank": "28",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜇𘜉𘜀𘜀",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜽𘝀𘜽𘝀</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜽𘝀𘜽𘝀</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "天人图谱",
@@ -809,10 +837,11 @@
       },
       "updateTime": "2025-01-15 16:33",
       "rank": "29",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜇𘜃𘜇𘜇",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜽𘜺𘜽𘜾</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜽𘜺𘜽𘜾</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "青山",
@@ -837,10 +866,11 @@
       },
       "updateTime": "2025-01-14 23:19",
       "rank": "30",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜀𘜅𘜄𘜉",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜼𘜸𘝀𘜷</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜼𘜸𘝀𘜷</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "吞噬星空2起源大陆",
@@ -865,10 +895,11 @@
       },
       "updateTime": "2025-01-15 12:40",
       "rank": "31",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘛾𘜈𘜉𘜅",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜹𘜻𘝀𘜽</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜹𘜻𘝀𘜽</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "从水猴子开始成神",
@@ -893,10 +924,11 @@
       },
       "updateTime": "2025-01-14 20:18",
       "rank": "32",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘛾𘜀𘜁𘜄",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜹𘜼𘜸𘜺</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜹𘜼𘜸𘜺</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "1987我的年代",
@@ -921,10 +953,11 @@
       },
       "updateTime": "2025-01-15 11:29",
       "rank": "33",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜃𘜉𘜈𘜇",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜺𘝀𘜻𘜽</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜺𘝀𘜻𘜽</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "华娱从男模开始",
@@ -949,10 +982,11 @@
       },
       "updateTime": "2025-01-15 19:15",
       "rank": "34",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜃𘜀𘜈𘜃",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜺𘜼𘜻𘜷</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜺𘜼𘜻𘜷</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "刚想艺考你说我跑了半辈子龙套？",
@@ -977,10 +1011,11 @@
       },
       "updateTime": "2025-01-15 20:56",
       "rank": "35",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘛾𘜃𘜁𘜄𘜁",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜹𘜺𘜷𘜾𘜽</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜹𘜺𘜷𘜾𘜽</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "整座大山都是我的猎场",
@@ -1005,10 +1040,11 @@
       },
       "updateTime": "2025-01-15 08:00",
       "rank": "36",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜉𘜈𘜁𘜅",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜵𘝀𘜻𘜷𘜾</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜵𘝀𘜻𘜷𘜾</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "魅力点满，继承游戏资产",
@@ -1033,10 +1069,11 @@
       },
       "updateTime": "2025-01-15 02:08",
       "rank": "37",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜉𘜁𘜂𘜀",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜵𘝀𘜷𘜵𘜼</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜵𘝀𘜷𘜵𘜼</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "永噩长夜",
@@ -1061,10 +1098,11 @@
       },
       "updateTime": "2025-01-15 21:00",
       "rank": "38",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜄𘛾𘜉𘜀",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜵𘜾𘜹𘝀𘝀</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜵𘜾𘜹𘝀𘝀</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "万世之名",
@@ -1089,10 +1127,11 @@
       },
       "updateTime": "2025-01-14 23:42",
       "rank": "39",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜄𘜃𘜈𘜉",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜵𘜾𘜺𘜾𘜹</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜵𘜾𘜺𘜾𘜹</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "国民法医",
@@ -1117,10 +1156,11 @@
       },
       "updateTime": "2025-01-14 17:53",
       "rank": "40",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜈𘜁𘜀𘜄",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: aeGMDzah; src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/aeGMDzah.ttf') format('truetype'); } .aeGMDzah { font-family: 'aeGMDzah' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"aeGMDzah\">𘜵𘜻𘜷𘜼𘝀</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"aeGMDzah\">𘜵𘜻𘜷𘜼𘝀</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "神话版三国",
@@ -1145,10 +1185,11 @@
       },
       "updateTime": "2025-01-15 08:17",
       "rank": "41",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜇𘜈𘜂𘜅",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠇𘠆𘠄𘠇</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠇𘠆𘠄𘠇</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "融合是最高贵的召唤方式！",
@@ -1173,10 +1214,11 @@
       },
       "updateTime": "2025-01-15 20:17",
       "rank": "42",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜇𘜀𘜈𘜄",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠇𘠂𘠆𘠅</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠇𘠂𘠆𘠅</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "终极火力",
@@ -1196,15 +1238,16 @@
       "description": "这个世界不只是普通人熟知的模样，还有个常人不会接触的地下世界。政府特工在暗中处理麻烦，财阀雇养的杀手在私下解决问题。有杀手，佣兵，军火商，还有特工，有把这个世界串联起来的暗网，也有试图用金钱控制一切的财阀。高毅闯进了地下世界，近战无敌的他打出了自己的领域。但是这个世界有枪。七步之外，枪快。七步之内，枪又准又快。三步之内才是高毅的拳快。打不过就加入，高毅选择全都要。全都要，成为佣兵圈里的杀手之王，杀手眼中的特工之王，特工眼中的杀手之王，成为军火商眼中的情报之王。直到在整个地下世界加冕为王，高毅，就是终极火力。",
       "status": "连载",
       "latestChapter": {
-        "title": "第545章 谁是反派",
-        "link": "https://www.qidian.com/chapter/1031949407/824642706/"
+        "title": "第546章 源于未知",
+        "link": "https://www.qidian.com/chapter/1031949407/824656144/"
       },
-      "updateTime": "2025-01-15 19:37",
+      "updateTime": "2025-01-15 21:10",
       "rank": "43",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜀𘜉𘜅𘜄",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠂𘠅𘠂𘠉</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠂𘠅𘠂𘠉</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "绝境黑夜",
@@ -1229,10 +1272,11 @@
       },
       "updateTime": "2025-01-15 16:59",
       "rank": "44",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜀𘜈𘜇𘜃",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠂𘠆𘠇𘠄</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠂𘠆𘠇𘠄</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "蜀山镇世地仙",
@@ -1257,10 +1301,11 @@
       },
       "updateTime": "2025-01-14 22:21",
       "rank": "45",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜀𘜇𘜄𘜉",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠂𘠇𘠍𘠅</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠂𘠇𘠍𘠅</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "穿甲弹不相信碳基怪物",
@@ -1285,10 +1330,11 @@
       },
       "updateTime": "2025-01-15 15:07",
       "rank": "46",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜀𘜀𘜂𘜉",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠂𘠂𘠉𘠄</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠂𘠂𘠉𘠄</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "天命皆烬",
@@ -1313,10 +1359,11 @@
       },
       "updateTime": "2025-01-15 01:06",
       "rank": "47",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜀𘜅𘜄𘜀",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠂𘠊𘠍𘠇</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠂𘠊𘠍𘠇</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "提前登陆五百年，我靠挖宝成神",
@@ -1341,10 +1388,11 @@
       },
       "updateTime": "2025-01-15 20:00",
       "rank": "48",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜀𘜃𘜃𘜇",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠂𘠋𘠄𘠊</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠂𘠋𘠄𘠊</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "文豪1978",
@@ -1369,10 +1417,11 @@
       },
       "updateTime": "2025-01-15 09:00",
       "rank": "49",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜅𘜉𘜅𘜀",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠊𘠅𘠊𘠇</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠊𘠅𘠊𘠇</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     },
     {
       "name": "诡秘之主",
@@ -1397,10 +1446,11 @@
       },
       "updateTime": "2022-11-25 16:27",
       "rank": "50",
-      "monthlyTicket": "@font-face { font-family: rqmyxLHs; src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/rqmyxLHs.ttf') format('truetype'); } .rqmyxLHs { font-family: 'rqmyxLHs' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }𘜂𘜅𘜇𘜃𘜄",
+      "monthlyTicketRaw": "  <p><span><style>@font-face { font-family: vzIgnepM; src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/vzIgnepM.ttf') format('truetype'); } .vzIgnepM { font-family: 'vzIgnepM' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class=\"vzIgnepM\">𘠄𘠊𘠇𘠋𘠅</span></span>月票</p>  ",
+      "monthlyTicket": "<p><span><style></style><span class=\"vzIgnepM\">𘠄𘠊𘠇𘠋𘠅</span></span>月票</p>",
       "platform": "起点中文网",
       "rankType": "月票榜",
-      "crawlTime": "2025-01-15 13:06:59"
+      "crawlTime": "2025-01-15 21:14:51"
     }
   ]
 }
