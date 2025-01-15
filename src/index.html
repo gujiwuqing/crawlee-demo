@@ -331,10 +331,9 @@
                   }`;
 
             // 处理月票显示
-            const monthlyTicket =
-              book.monthlyTicket && !book.monthlyTicket.includes("font-face")
-                ? book.monthlyTicket
-                : "暂无数据";
+            const monthlyTicket = book.monthlyTicket && !book.monthlyTicket.includes('font-face') 
+                ? book.monthlyTicket 
+                : '暂无数据';
 
             html += `
                 <div class="item">
