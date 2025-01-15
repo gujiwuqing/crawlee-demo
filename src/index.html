@@ -93,6 +93,121 @@
         text-align: center;
         padding: 20px;
       }
+
+      .book-info {
+        flex: 1;
+        display: flex;
+        gap: 20px;
+        padding: 10px;
+      }
+
+      .book-main {
+        flex: 1;
+      }
+
+      .book-title {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 8px;
+      }
+
+      .book-title a {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: #1976d2;
+        text-decoration: none;
+      }
+
+      .book-status {
+        font-size: 0.8em;
+        padding: 2px 6px;
+        border-radius: 4px;
+        background: #e0e0e0;
+        color: #666;
+      }
+
+      .book-meta {
+        display: flex;
+        gap: 15px;
+        color: #666;
+        font-size: 0.9em;
+        margin-bottom: 8px;
+      }
+
+      .book-meta a {
+        color: #666;
+        text-decoration: none;
+      }
+
+      .book-meta a:hover {
+        color: #1976d2;
+      }
+
+      .book-desc {
+        color: #666;
+        font-size: 0.9em;
+        line-height: 1.5;
+        margin-bottom: 8px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .book-update {
+        font-size: 0.9em;
+        color: #666;
+      }
+
+      .book-update a {
+        color: #666;
+        text-decoration: none;
+      }
+
+      .book-update a:hover {
+        color: #1976d2;
+      }
+
+      .update-time {
+        margin-left: 10px;
+        color: #999;
+      }
+
+      .book-cover {
+        width: 90px;
+        flex-shrink: 0;
+      }
+
+      .book-cover img {
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .monthly-ticket {
+        color: #ff4081;
+        font-weight: bold;
+      }
+
+      /* 适配移动设备 */
+      @media (max-width: 768px) {
+        .book-info {
+          flex-direction: column;
+          gap: 10px;
+        }
+
+        .book-cover {
+          width: 60px;
+          align-self: center;
+        }
+
+        .book-meta {
+          flex-wrap: wrap;
+          gap: 10px;
+        }
+      }
     </style>
   </head>
   <body>
@@ -190,26 +305,60 @@
 
         if (type === "weibo") {
           data.topics.forEach((topic) => {
+            const hotInfo = topic.hot.category
+              ? `${topic.hot.category} ${topic.hot.value}`
+              : topic.hot.value;
+
             html += `
-              <div class="item">
-                <div class="rank">${topic.rank}</div>
-                <div class="title">
-                  <a href="${topic.link}" target="_blank">${topic.title}</a>
-                  <div class="info">${topic.hot.value}</div>
+                <div class="item">
+                    <div class="rank">${topic.rank}</div>
+                    <div class="title">
+                        <a href="${topic.link}" target="_blank">${topic.title}</a>
+                        <div class="info">${hotInfo}</div>
+                    </div>
                 </div>
-              </div>
             `;
           });
         } else {
+          // 小说类内容的渲染
           data.books.forEach((book) => {
+            // 处理分类显示
+            const category =
+              type === "zongheng"
+                ? book.category
+                : `${book.category.main}${
+                    book.category.sub ? " · " + book.category.sub : ""
+                  }`;
+
             html += `
-              <div class="item">
-                <div class="rank">${book.rank}</div>
-                <div class="title">
-                  <a href="${book.link}" target="_blank">${book.name}</a>
-                  <div class="info">作者：${book.author.name} | 分类：${book.category.main}</div>
+                <div class="item">
+                    <div class="rank">${book.rank}</div>
+                    <div class="book-info">
+                        <div class="book-main">
+                            <div class="book-title">
+                                <a href="${book.link}" target="_blank">${book.name}</a>
+                                <span class="book-status">${book.status}</span>
+                            </div>
+                            <div class="book-meta">
+                                <span class="author">
+                                    <a href="${book.author.link}" target="_blank">${book.author.name}</a>
+                                </span>
+                                <span class="category">${category}</span>
+                                <span class="monthly-ticket">月票：${book.monthlyTicket}</span>
+                            </div>
+                            <div class="book-desc">${book.description}</div>
+                            <div class="book-update">
+                                <a href="${book.latestChapter.link}" target="_blank">
+                                    最新：${book.latestChapter.title}
+                                </a>
+                                <span class="update-time">${book.updateTime}</span>
+                            </div>
+                        </div>
+                        <div class="book-cover">
+                            <img src="${book.cover.url}" alt="${book.cover.alt}" loading="lazy">
+                        </div>
+                    </div>
                 </div>
-              </div>
             `;
           });
         }
