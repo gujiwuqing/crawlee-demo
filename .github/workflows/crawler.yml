@@ -11,6 +11,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # 获取所有历史记录
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -36,15 +38,38 @@ jobs:
       - name: Run crawler
         run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" node src/main.js
 
-      - name: Copy data and index.html
+      - name: Prepare public directory
         run: |
-          mkdir -p public
-          cp -r src/scripts/*/yuepiao/$(date +%Y-%m-%d) public/ || true
-          cp -r src/scripts/*/hot/$(date +%Y-%m-%d) public/ || true
+          # 创建必要的目录
+          mkdir -p public/data/qidian
+          mkdir -p public/data/zongheng
+          mkdir -p public/data/weibo
+
+          # 获取今天的日期
+          TODAY=$(date +%Y-%m-%d)
+
+          # 复制数据文件
+          if [ -f "src/scripts/qidian/yuepiao/$TODAY/yuepiao.json" ]; then
+            cp "src/scripts/qidian/yuepiao/$TODAY/yuepiao.json" "public/data/qidian/$TODAY.json"
+          fi
+
+          if [ -f "src/scripts/zongheng/yuepiao/$TODAY/yuepiao.json" ]; then
+            cp "src/scripts/zongheng/yuepiao/$TODAY/yuepiao.json" "public/data/zongheng/$TODAY.json"
+          fi
+
+          if [ -f "src/scripts/weibo/hot/$TODAY/weibo-hot.json" ]; then
+            cp "src/scripts/weibo/hot/$TODAY/weibo-hot.json" "public/data/weibo/$TODAY.json"
+          fi
+
+          # 复制 index.html
           cp src/index.html public/
+
+          # 创建数据索引文件
+          echo "{\"lastUpdate\":\"$TODAY\"}" > public/data/index.json
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          keep_files: true # 保留之前的文件

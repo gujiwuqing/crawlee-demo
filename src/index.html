@@ -146,24 +146,40 @@
 
       // 加载数据
       async function loadData() {
-        const date = new Date().toISOString().split("T")[0];
-        const sources = {
-          qidian: `./qidian/yuepiao/${date}/yuepiao.json`,
-          zongheng: `./zongheng/yuepiao/${date}/yuepiao.json`,
-          weibo: `./weibo/hot/${date}/weibo-hot.json`,
-        };
+        try {
+          // 先获取最新的数据索引
+          const indexResponse = await fetch("./data/index.json");
+          if (!indexResponse.ok) throw new Error("无法获取数据索引");
+          const { lastUpdate } = await indexResponse.json();
 
-        for (const [key, url] of Object.entries(sources)) {
-          try {
-            const response = await fetch(url);
-            if (!response.ok) throw new Error("数据加载失败");
-            const data = await response.json();
-            renderData(key, data);
-          } catch (error) {
-            document.getElementById(
-              key
-            ).innerHTML = `<div class="error">暂无数据，请稍后再试</div>`;
+          const sources = {
+            qidian: `./data/qidian/${lastUpdate}.json`,
+            zongheng: `./data/zongheng/${lastUpdate}.json`,
+            weibo: `./data/weibo/${lastUpdate}.json`,
+          };
+
+          for (const [key, url] of Object.entries(sources)) {
+            try {
+              const response = await fetch(url);
+              if (!response.ok) throw new Error("数据加载失败");
+              const data = await response.json();
+              renderData(key, data);
+
+              // 更新时间显示
+              document.getElementById(
+                "update-time"
+              ).textContent = `最后更新: ${lastUpdate} ${
+                data.timestamp.split(" ")[1]
+              }`;
+            } catch (error) {
+              document.getElementById(
+                key
+              ).innerHTML = `<div class="error">暂无数据，请稍后再试</div>`;
+            }
           }
+        } catch (error) {
+          console.error("加载数据失败:", error);
+          document.getElementById("update-time").textContent = "数据加载失败";
         }
       }
 
