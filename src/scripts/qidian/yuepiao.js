@@ -1,29 +1,8 @@
 import { PlaywrightCrawler } from 'crawlee';
-import { randomDelay, saveToFile } from '../../../utils/index.js';
+import { randomDelay, saveToFile, downloadFont } from '../../../utils/index.js';
 import dayjs from 'dayjs';
-
-// 添加字体映射函数
-function decodeCustomFont(text) {
-    // 移除 CSS 样式部分
-    const cleanText = text.replace(/@font-face[\s\S]*?}.*?}/, '').trim();
-
-    // 字体映射表 (需要根据实际情况更新)
-    const fontMap = {
-        '𘟮': '0',
-        '𘟯': '1',
-        '𘟰': '2',
-        '𘟱': '3',
-        '𘟲': '4',
-        '𘟳': '5',
-        '𘟴': '6',
-        '𘟵': '7',
-        '𘟶': '8',
-        '𘟷': '9'
-    };
-
-    // 解码文本
-    return cleanText.split('').map(char => fontMap[char] || char).join('');
-}
+import path from 'path';
+import fs from 'fs';
 
 const crawler = new PlaywrightCrawler({
     maxConcurrency: 1,
@@ -37,6 +16,31 @@ const crawler = new PlaywrightCrawler({
             // 等待页面加载
             await page.waitForLoadState('networkidle');
             await page.waitForSelector('.rank-body', { timeout: 10000 });
+
+            // 获取字体URL和名称
+            const fontInfo = await page.evaluate(() => {
+                const styleSheet = Array.from(document.styleSheets)
+                    .find(sheet => sheet.href === null && sheet.cssRules[0]?.cssText.includes('@font-face'));
+
+                if (!styleSheet) return null;
+
+                const fontFaceRule = Array.from(styleSheet.cssRules)
+                    .find(rule => rule.type === CSSRule.FONT_FACE_RULE);
+
+                if (!fontFaceRule) return null;
+
+                return {
+                    url: fontFaceRule.style.getPropertyValue('src').match(/url\('(.+?)'\)/)?.[1],
+                    family: fontFaceRule.style.getPropertyValue('font-family').replace(/['"]/g, '')
+                };
+            });
+
+            if (fontInfo) {
+                log.info('检测到自定义字体:', fontInfo);
+                // 下载字体文件
+                const fontPath = await downloadFont(fontInfo.url, `${fontInfo.family}.woff`);
+                log.info('字体文件已保存:', fontPath);
+            }
 
             const allBooks = [];
             // 需要爬取前50本书，每页20本，需要爬取3页
@@ -87,8 +91,9 @@ const crawler = new PlaywrightCrawler({
                         const mainCategory = categories[0] || '';
                         const subCategory = categories[1] || '';
 
-                        // 获取月票数据的原始HTML
-                        const monthlyTicketHtml = monthlyTicketElement ? monthlyTicketElement.innerHTML : '0';
+                        // 获取月票数据
+                        const monthlyTicketText = monthlyTicketElement?.textContent?.trim() || '0';
+                        const fontFamily = window.getComputedStyle(monthlyTicketElement).fontFamily;
 
                         return {
                             name: nameElement?.textContent?.trim() || '',
@@ -113,7 +118,8 @@ const crawler = new PlaywrightCrawler({
                             },
                             updateTime: updateTimeElement?.textContent?.trim() || '',
                             rank: rankElement?.textContent?.replace(/[^0-9]/g, '') || '',
-                            monthlyTicketRaw: monthlyTicketHtml, // 保存原始HTML
+                            monthlyTicket: monthlyTicketText,
+                            monthlyTicketFont: fontFamily
                         };
                     });
                 });
