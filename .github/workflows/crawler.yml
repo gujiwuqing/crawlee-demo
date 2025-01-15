@@ -1,0 +1,45 @@
+name: Daily Crawler
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # UTC 1:00 (北京时间 9:00)
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Install Playwright Browsers
+        run: pnpm exec playwright install --with-deps
+
+      - name: Run crawler
+        run: node src/main.js
+
+      - name: Copy data and index.html
+        run: |
+          mkdir -p public
+          cp -r src/scripts/*/yuepiao/$(date +%Y-%m-%d) public/ || true
+          cp -r src/scripts/*/hot/$(date +%Y-%m-%d) public/ || true
+          cp src/index.html public/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

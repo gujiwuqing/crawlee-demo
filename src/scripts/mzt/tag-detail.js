@@ -5,7 +5,7 @@ import dayjs from 'dayjs';
 import { downloadImage } from '../../../utils/index.js'
 
 
-const downloadDir = path.resolve(`./kkmzt-detail-images/2025-01-13`);
+const downloadDir = path.resolve(`./kkmzt-detail-images/2025-01-14`);
 
 // 确保保存目录存在
 if (!fs.existsSync(downloadDir)) {
@@ -99,7 +99,7 @@ const crawler = new PlaywrightCrawler({
         const tagPageUrl = request.url;
         log.info(`访问页面: ${tagPageUrl}`);
 
-        const currentDate = '2025-01-13' || dayjs().format('YYYY-MM-DD');
+        const currentDate = '2025-01-14' || dayjs().format('YYYY-MM-DD');
 
         // 优化滚动加载
         log.info('滚动加载内容...');
