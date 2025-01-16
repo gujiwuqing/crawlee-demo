@@ -17,30 +17,30 @@ const tasks = [
       }
     }
   },
-  // {
-  //   name: '纵横月票榜',
-  //   run: async () => {
-  //     try {
-  //       await zongheng.run();
-  //       console.log('纵横月票榜数据采集完成');
-  //     } catch (error) {
-  //       console.error('纵横月票榜采集失败:', error);
-  //       throw error;
-  //     }
-  //   }
-  // },
-  // {
-  //   name: '微博热搜',
-  //   run: async () => {
-  //     try {
-  //       await weibo.run();
-  //       console.log('微博热搜数据采集完成');
-  //     } catch (error) {
-  //       console.error('微博热搜采集失败:', error);
-  //       throw error;
-  //     }
-  //   }
-  // },
+  {
+    name: '纵横月票榜',
+    run: async () => {
+      try {
+        await zongheng.run();
+        console.log('纵横月票榜数据采集完成');
+      } catch (error) {
+        console.error('纵横月票榜采集失败:', error);
+        throw error;
+      }
+    }
+  },
+  {
+    name: '微博热搜',
+    run: async () => {
+      try {
+        await weibo.run();
+        console.log('微博热搜数据采集完成');
+      } catch (error) {
+        console.error('微博热搜采集失败:', error);
+        throw error;
+      }
+    }
+  },
 ];
 
 // 顺序执行任务的函数

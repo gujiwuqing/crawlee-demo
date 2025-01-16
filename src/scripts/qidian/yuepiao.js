@@ -4,6 +4,17 @@ import dayjs from 'dayjs';
 import path from 'path';
 import fs from 'fs';
 
+// 添加字体解码函数
+function decodeCustomFont(text, fontFamily) {
+    // 如果没有自定义字体，直接返回原文本
+    if (!text || !fontFamily || fontFamily === 'inherit') {
+        return text;
+    }
+    
+    // 返回原始文本，等待后续字体解析功能完善
+    return text;
+}
+
 const crawler = new PlaywrightCrawler({
     maxConcurrency: 1,
     requestHandlerTimeoutSecs: 60,
@@ -106,7 +117,9 @@ const crawler = new PlaywrightCrawler({
 
                         // 获取月票数据
                         const monthlyTicketText = monthlyTicketElement?.textContent?.trim() || '0';
-                        const fontFamily = window.getComputedStyle(monthlyTicketElement).fontFamily;
+                        const fontFamily = monthlyTicketElement 
+                            ? window.getComputedStyle(monthlyTicketElement).fontFamily 
+                            : '';
 
                         return {
                             name: nameElement?.textContent?.trim() || '',
@@ -140,7 +153,7 @@ const crawler = new PlaywrightCrawler({
                 // 处理采集到的数据
                 const processedBooks = booksOnPage.map(book => ({
                     ...book,
-                    monthlyTicket: decodeCustomFont(book.monthlyTicketRaw)
+                    monthlyTicket: decodeCustomFont(book.monthlyTicket, book.monthlyTicketFont)
                 }));
 
                 allBooks.push(...processedBooks);
