@@ -29,17 +29,30 @@ const crawler = new PlaywrightCrawler({
 
                 if (!fontFaceRule) return null;
 
+                const fontUrl = fontFaceRule.style.getPropertyValue('src').match(/url\('(.+?)'\)/)?.[1];
+                // 确保 URL 是完整的
+                const fullUrl = fontUrl?.startsWith('//') 
+                    ? `https:${fontUrl}` 
+                    : fontUrl?.startsWith('/') 
+                        ? `https://www.qidian.com${fontUrl}`
+                        : fontUrl;
+
                 return {
-                    url: fontFaceRule.style.getPropertyValue('src').match(/url\('(.+?)'\)/)?.[1],
+                    url: fullUrl,
                     family: fontFaceRule.style.getPropertyValue('font-family').replace(/['"]/g, '')
                 };
             });
 
-            if (fontInfo) {
+            if (fontInfo && fontInfo.url) {
                 log.info('检测到自定义字体:', fontInfo);
-                // 下载字体文件
-                const fontPath = await downloadFont(fontInfo.url, `${fontInfo.family}.woff`);
-                log.info('字体文件已保存:', fontPath);
+                try {
+                    // 下载字体文件
+                    const fontPath = await downloadFont(fontInfo.url, `${fontInfo.family}.woff`);
+                    log.info('字体文件已保存:', fontPath);
+                } catch (error) {
+                    log.error('下载字体文件失败:', error);
+                    // 继续执行，不要因为字体下载失败而中断整个爬虫
+                }
             }
 
             const allBooks = [];
