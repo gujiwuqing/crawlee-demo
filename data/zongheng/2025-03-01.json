@@ -1,0 +1,1256 @@
+{
+  "timestamp": "2025-03-01 02:00:31",
+  "total": 50,
+  "books": [
+    {
+      "rank": "",
+      "name": "天下长宁",
+      "link": "https://www.zongheng.com/detail/1317295",
+      "author": {
+        "name": "知白",
+        "link": "https://home.zongheng.com/show/userInfo/1185346.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/d4/df/d4df1d817b749e66bd4c60bc609b929d1709689763499.jpeg",
+        "alt": "天下长宁"
+      },
+      "category": "历史",
+      "status": "连载",
+      "description": "巍威大宁，在世为章。\r\n受命于天，既寿永昌。",
+      "latestChapter": {
+        "title": "第八百九十七章你们连资格都没有",
+        "link": "https://read.zongheng.com/chapter/1317295/90189108.html"
+      },
+      "updateTime": "03-01 06:18",
+      "monthlyTicket": "2224",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "",
+      "name": "人间有剑",
+      "link": "https://www.zongheng.com/detail/1388197",
+      "author": {
+        "name": "平生未知寒",
+        "link": "https://home.zongheng.com/show/userInfo/19335221.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/1c/fa/1cfa15d386593bf72290f181ff4a870b1739325603758.jpeg",
+        "alt": "人间有剑"
+      },
+      "category": "武侠仙侠",
+      "status": "连载",
+      "description": "七洲之地，仙府无数，有百万修士如繁星。\r\n修行从来艰难。\r\n故世人言，“修行之难，难于上青天。”\r\n那人提剑观天，却只是摇了摇头。\r\n“不难。”\r\n上青天不难，杀青天……也不难。",
+      "latestChapter": {
+        "title": "第一百零五章 月下湖畔有两人",
+        "link": "https://read.zongheng.com/chapter/1388197/90188576.html"
+      },
+      "updateTime": "03-01 02:29",
+      "monthlyTicket": "1121",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "",
+      "name": "新官路商途",
+      "link": "https://www.zongheng.com/detail/1320719",
+      "author": {
+        "name": "更俗",
+        "link": "https://home.zongheng.com/show/userInfo/3185.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/c8/f0/c8f0b6850e9e652dba85bed72c2a72921731312198740.jpeg",
+        "alt": "新官路商途"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "前世父亲为官清白，却受上级牵连，丢失职务，后半生将冷板凳坐到退休。\r\n原本为众人羡慕、亲戚朋友交口相赞的萧良兄弟二人，命运也随之发生波折：\r\n大哥遭遇情变，未婚妻被人第三者插足，饱受人世间冷眼相待，在市委机关耕耘半生却无半点收获；萧良名校毕业也被踢到乡镇默默无闻的工作了两年，奉令调查村办厂的贪腐案，却反遭贪腐者肆无忌惮的诬告迫害，人生从此坠入前所未有的困顿与挣扎之中。\r\n萧良不甘心命运的坎坷，不甘心作恶者得志猖狂却不得惩罚，意外重生回到九四年，再次遭遇仇家设下仙人跳陷害诬告，但他这次不再仓皇、软弱，决心重新开局，趟开新的官路商途，令人生重新耀眼、家庭重回正轨，令作恶者恶有恶报，令善良者不受践踏……",
+      "latestChapter": {
+        "title": "第七百四十一章  控制权转移",
+        "link": "https://read.zongheng.com/chapter/1320719/90188194.html"
+      },
+      "updateTime": "03-01 01:14",
+      "monthlyTicket": "365",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "04",
+      "name": "弑神仙尊",
+      "link": "https://www.zongheng.com/detail/1277519",
+      "author": {
+        "name": "浪迹天涯觅卿归",
+        "link": "https://home.zongheng.com/show/userInfo/55299061.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/1d/f7/1df7a298363d7751998914168645a0b21733725445486.jpeg",
+        "alt": "弑神仙尊"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "以天为父，以地为母。\r\n浪天涯，一个热血、逗比的生灵，纵情驰骋于一个人妖神鬼魔争斗不断的修行世界。\r\n不怕天，不怕地，唯独惧于一个情字。\r\n看尽天下苦楚，历经世间磨难，浪天涯最终修至极境，成为庇护众生的撑天巨树，无奈护尽天下苍生，却护不了自己内心一丝温柔。\r\n浪迹天涯觅卿回，缘来缘去不得归。",
+      "latestChapter": {
+        "title": "人之灵篇 第六百九十二章 再遇邪魅女修",
+        "link": "https://read.zongheng.com/chapter/1277519/90176264.html"
+      },
+      "updateTime": "02-28 00:05",
+      "monthlyTicket": "116",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "05",
+      "name": "无敌天命",
+      "link": "https://www.zongheng.com/detail/1336976",
+      "author": {
+        "name": "青鸾峰上",
+        "link": "https://home.zongheng.com/show/userInfo/12763884.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/09/6e/096ea16ea003a93d2fd970fe0a49e81e1730861045392.jpeg",
+        "alt": "无敌天命"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "谁言天命天注定？\r\n我命由我不由天！",
+      "latestChapter": {
+        "title": "第四百三十八章：灭他满门！",
+        "link": "https://read.zongheng.com/chapter/1336976/90189214.html"
+      },
+      "updateTime": "03-01 07:01",
+      "monthlyTicket": "58",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "06",
+      "name": "仙佛浩劫",
+      "link": "https://www.zongheng.com/detail/1278436",
+      "author": {
+        "name": "团子大",
+        "link": "https://home.zongheng.com/show/userInfo/51795224.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/2b/07/2b0712f77d47bec54c64ad2ad941a0181728529558475.jpeg",
+        "alt": "仙佛浩劫"
+      },
+      "category": "科幻",
+      "status": "连载",
+      "description": "末世玄幻战争流开山之作，带你体验金戈铁马，挥斥方遒的末世。\n灵气复苏？\n不，邪气复苏，不成人便成鬼。\n人鬼两变，正反横跳，皆为高层，玩转末世！",
+      "latestChapter": {
+        "title": "第959章：围城蚕食，改革城池，黄天成仙",
+        "link": "https://read.zongheng.com/chapter/1278436/90180482.html"
+      },
+      "updateTime": "02-28 12:04",
+      "monthlyTicket": "58",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "07",
+      "name": "仙都",
+      "link": "https://www.zongheng.com/detail/117529",
+      "author": {
+        "name": "陈猿",
+        "link": "https://home.zongheng.com/show/userInfo/934399.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/38/d2/38d2d4fb8a1ae16e508a95e96a23df791733913415388.jpeg",
+        "alt": "仙都"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "混沌从来不记年，各将妙道补真全。\n当时未有星河斗，先有吾道后有天。",
+      "latestChapter": {
+        "title": "第一百二十三节 瞌睡递枕头",
+        "link": "https://read.zongheng.com/chapter/117529/90177022.html"
+      },
+      "updateTime": "02-28 00:38",
+      "monthlyTicket": "52",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "08",
+      "name": "剑来",
+      "link": "https://www.zongheng.com/detail/672340",
+      "author": {
+        "name": "烽火戏诸侯",
+        "link": "https://home.zongheng.com/show/userInfo/166130.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/30/93/309398098f69f213f12b55ccac40ffac1722389439420.jpeg",
+        "alt": "剑来"
+      },
+      "category": "武侠仙侠",
+      "status": "连载",
+      "description": "大千世界，无奇不有。\n我陈平安，唯有一剑，可搬山，倒海，降妖，镇魔，敕神，摘星，断江，摧城，开天！\n我叫陈平安，平平安安的平安。我是一名剑客。",
+      "latestChapter": {
+        "title": "第14章 野草",
+        "link": "https://read.zongheng.com/chapter/672340/90181615.html"
+      },
+      "updateTime": "02-28 14:58",
+      "monthlyTicket": "50",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "09",
+      "name": "九星镇天诀",
+      "link": "https://www.zongheng.com/detail/1320449",
+      "author": {
+        "name": "一叶青天",
+        "link": "https://home.zongheng.com/show/userInfo/12775608.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/f0/f0/f0f0849bd84b8f15f204a661446db4eb1714924864403.jpeg",
+        "alt": "九星镇天诀"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "九天星河为图，亿万星辰为兵！\r\n我叫陈复生，本是尘世一俗人，走向了万神共诛的禁忌路，以凡人之躯战苍穹。\r\n笑问宇宙诸天外，惟谁独尊？\r\n（撼天，盖世帝尊，帝道独尊，盖世人王，青天第五部小说发布）",
+      "latestChapter": {
+        "title": "第七百九十一章同代不可敌！",
+        "link": "https://read.zongheng.com/chapter/1320449/90186608.html"
+      },
+      "updateTime": "03-01 00:04",
+      "monthlyTicket": "44",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "10",
+      "name": "太荒吞天诀",
+      "link": "https://www.zongheng.com/detail/916691",
+      "author": {
+        "name": "铁马飞桥",
+        "link": "https://home.zongheng.com/show/userInfo/6259965.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/c8/d5/c8d545efb4fbbf14219b7f5f545a7b62.jpeg",
+        "alt": "太荒吞天诀"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "十大仙帝之一，因得重宝吞天神鼎，遭围攻惨死；携神鼎重生归来，吞四海，容八荒…一代邪神，踏天血洗仙界！\n关注微信公众号搜索：《铁马飞桥》点击关注，不定时有剧情方面的更新！\n公布一个群号：224382518",
+      "latestChapter": {
+        "title": "第四千一百三十二章  神帝九重",
+        "link": "https://read.zongheng.com/chapter/916691/90189102.html"
+      },
+      "updateTime": "03-01 06:15",
+      "monthlyTicket": "38",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "11",
+      "name": "绝色生骄",
+      "link": "https://www.zongheng.com/detail/1340178",
+      "author": {
+        "name": "沙漠",
+        "link": "https://home.zongheng.com/show/userInfo/75892.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/fc/ba/fcba566aa1f342e9d63a2bba882fe99f1728691209660.jpeg",
+        "alt": "绝色生骄"
+      },
+      "category": "历史",
+      "status": "连载",
+      "description": "门阀霸世，军匪割据。\r\n北方的少年扬刀挥鞭，策马山河，便要为天下寒门布衣劈开一条大道。\r\n我本无意逐鹿，奈何苍生苦楚，战就战他个八荒无敌！",
+      "latestChapter": {
+        "title": "第三四八章   将功赎罪",
+        "link": "https://read.zongheng.com/chapter/1340178/90183142.html"
+      },
+      "updateTime": "02-28 17:59",
+      "monthlyTicket": "37",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "12",
+      "name": "最强狂兵Ⅱ：黑暗荣耀",
+      "link": "https://www.zongheng.com/detail/1366535",
+      "author": {
+        "name": "烈焰滔滔",
+        "link": "https://home.zongheng.com/show/userInfo/331413.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/eb/fb/ebfb4a139ef395999128eee7e4d01c471736498784695.jpeg",
+        "alt": "最强狂兵Ⅱ：黑暗荣耀"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "“爸，你让我去扮演个纨绔恶少，我这人太老实了，该怎么演？”\r\n“不用演，你稍微收敛点就行了。”\r\n…………\r\n他爸叫苏锐，以前是最强兵王。\r\n他妈叫军师，以前是超级智囊。\r\n他叫苏无际，同时遗传了最强身体和最强大脑，却只想躺平摆烂，每天灯红酒绿，美女环绕，恶名远扬。\r\n而认识他的都没想到，这个废柴纨绔，却成了苏家的影子少主。\r\n他站在黑夜与阴影之中搅动风云，却让那些太阳底下的人瑟瑟发抖。\r\n苏家曾是第一家族，隐姓埋名二十五年，渐渐被世人遗忘，随着苏无际摘下了纨绔的面具，最强家族，卷土重来！\r\n…………\r\n本书名字还可以是：《开局只想当混混，我爸竟是最强狂兵》、《顶级三代归来，都以为我是废柴恶少？》、《我爸的老婆这么多，还个个都疼我》、《最强家族之影子少主》！",
+      "latestChapter": {
+        "title": "第239章 偏向虎穴行！",
+        "link": "https://read.zongheng.com/chapter/1366535/90190399.html"
+      },
+      "updateTime": "03-01 09:48",
+      "monthlyTicket": "30",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "13",
+      "name": "灰烬领主",
+      "link": "https://www.zongheng.com/detail/1215587",
+      "author": {
+        "name": "我爱小豆",
+        "link": "https://home.zongheng.com/show/userInfo/48532668.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/6d/e8/6de8637db8ba4c0b5d9bc89710307e8f1733911731670.jpeg",
+        "alt": "灰烬领主"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "他来自被放逐的地下世界，遵从弱肉强食的生存法则。\n他是真理的探索者，是行走在理智与疯狂边缘的巫师。\n当神话被终结，秩序不再，力量便是世界的唯一规则。\n并不是所有黑暗的地方，都需要光。\n………\n书友1群：678816703\n书友2群：925165330\n书友3群：1020671418\n请大家文明交流，严禁开车。\n公众号：D我爱小豆，有我上传的巫师世界地图，以及所有番外。",
+      "latestChapter": {
+        "title": "第四千一百八十章 我成了！",
+        "link": "https://read.zongheng.com/chapter/1215587/90184118.html"
+      },
+      "updateTime": "02-28 20:01",
+      "monthlyTicket": "30",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "14",
+      "name": "割鹿记",
+      "link": "https://www.zongheng.com/detail/1326684",
+      "author": {
+        "name": "无罪",
+        "link": "https://home.zongheng.com/show/userInfo/110992.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/28/a2/28a264760b52ad32617c75e6c3ebae331735003965985.jpeg",
+        "alt": "割鹿记"
+      },
+      "category": "历史",
+      "status": "连载",
+      "description": "胡姬貌如花，当垆笑春风，谁人不想去长安。",
+      "latestChapter": {
+        "title": "第五百五十六章 我便来杀你",
+        "link": "https://read.zongheng.com/chapter/1326684/90189254.html"
+      },
+      "updateTime": "03-01 07:18",
+      "monthlyTicket": "28",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "15",
+      "name": "对弈江山",
+      "link": "https://www.zongheng.com/detail/1220293",
+      "author": {
+        "name": "染夕遥",
+        "link": "https://home.zongheng.com/show/userInfo/53712665.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/63/a0/63a01543972a3c2b7ce61bc3aa7299181712162897394.jpeg",
+        "alt": "对弈江山"
+      },
+      "category": "历史",
+      "status": "连载",
+      "description": "王朝崩坏，秩序未立，江山逐鹿的棋局早已摆好，棋中有红颜百媚笑，亦有将士万骨枯。\r\n少年翩然而来，一头扎进这场江山对弈的棋局中",
+      "latestChapter": {
+        "title": "第一千一百一十二章 君子小人",
+        "link": "https://read.zongheng.com/chapter/1220293/90184527.html"
+      },
+      "updateTime": "02-28 21:00",
+      "monthlyTicket": "28",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "16",
+      "name": "星辰大道",
+      "link": "https://www.zongheng.com/detail/1385191",
+      "author": {
+        "name": "随散飘风",
+        "link": "https://home.zongheng.com/show/userInfo/13802337.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/23/db/23db602ee55f62ee16a3c250ba9055991737505801665.jpeg",
+        "alt": "星辰大道"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "我看星空很大，星空看我也很大。\r\n这是宇宙，我的宇宙！\r\n2200年的一天，当陨石砸落，科技终结，武道开始。\r\n我于废墟走出，指点星空！",
+      "latestChapter": {
+        "title": "第一百六十六章   开店",
+        "link": "https://read.zongheng.com/chapter/1385191/90189713.html"
+      },
+      "updateTime": "03-01 08:30",
+      "monthlyTicket": "27",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "17",
+      "name": "山有蝉鸣",
+      "link": "https://www.zongheng.com/detail/1336928",
+      "author": {
+        "name": "乱世TICH",
+        "link": "https://home.zongheng.com/show/userInfo/52523027.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/39/64/396486f5f34e27bf5ada4a127c02bbb31739173419933.jpeg",
+        "alt": "山有蝉鸣"
+      },
+      "category": "现实题材",
+      "status": "完结",
+      "description": "少年时代的杨守安和周清茹并不懂什么家国大义，只是被动地跟随着大人们的脚步，登上了离开故乡的客轮。谁曾想两人竟就此踏入了时代的洪流，巫山如旧，人非物是，唯有那夏夜连绵的蝉鸣始终为他们指引着家的方向。",
+      "latestChapter": {
+        "title": "第一百五十七章 山有蝉鸣",
+        "link": "https://read.zongheng.com/chapter/1336928/90006879.html"
+      },
+      "updateTime": "02-10 00:27",
+      "monthlyTicket": "26",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "18",
+      "name": "过河卒",
+      "link": "https://www.zongheng.com/detail/1171191",
+      "author": {
+        "name": "莫问江湖",
+        "link": "https://home.zongheng.com/show/userInfo/21232527.html"
+      },
+      "cover": {
+        "url": "https://revo.zongheng.com/www/2024/images/9507ec3.png",
+        "alt": "过河卒"
+      },
+      "category": "武侠仙侠",
+      "status": "连载",
+      "description": "天下为棋，苍生作子，而齐玄素便是那过了河的卒子，有进无退，一往无前。\r\n书友群：769528452，欢迎加入！",
+      "latestChapter": {
+        "title": "第七十章 容器",
+        "link": "https://read.zongheng.com/chapter/1171191/90190348.html"
+      },
+      "updateTime": "03-01 09:43",
+      "monthlyTicket": "25",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "19",
+      "name": "穿越者归来，决战AI",
+      "link": "https://www.zongheng.com/detail/1351937",
+      "author": {
+        "name": "地瓜舟",
+        "link": "https://home.zongheng.com/show/userInfo/53939536.html"
+      },
+      "cover": {
+        "url": "https://revo.zongheng.com/www/2024/images/9507ec3.png",
+        "alt": "穿越者归来，决战AI"
+      },
+      "category": "科幻",
+      "status": "连载",
+      "description": "当科技与欲望深度捆绑，相互纠缠，世界仿佛被拧成了一串烟花爆竹，会随时狂欢而绽放绚烂，也会随时炸个人仰马翻，于是，五百年后，当穿越者归来，数十亿人类已经死于非命，AI笼罩着全世界，那么这个世界，还能再抢救一下吗？？？",
+      "latestChapter": {
+        "title": "第246章 天骄争霸（6）",
+        "link": "https://read.zongheng.com/chapter/1351937/90188191.html"
+      },
+      "updateTime": "03-01 01:11",
+      "monthlyTicket": "24",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "20",
+      "name": "自在真仙",
+      "link": "https://www.zongheng.com/detail/1267658",
+      "author": {
+        "name": "临剑",
+        "link": "https://home.zongheng.com/show/userInfo/54167780.html"
+      },
+      "cover": {
+        "url": "https://revo.zongheng.com/www/2024/images/9507ec3.png",
+        "alt": "自在真仙"
+      },
+      "category": "武侠仙侠",
+      "status": "连载",
+      "description": "何谓自在？珍视羁绊乃自在。\r\n何谓真仙？惜情重义为真仙。\r\n十方三世无敌手，洪荒诸天尽低头！\r\n本作是《剑魔携香》的后传。\r\n讲述的是正传两年后，韩夜、司徒云梦、薛燕、韩玉和星辰过上了梦寐以求的生活，自由自在地住在了一起，维持六界秩序。\r\n彼此的羁绊越来越深。\r\n而等待他们的，是前来寻找“五彩之心”（司徒云梦在天外天的身份）的、拥有十亿世界之灵力的三千世界之主。\r\n与此同时，众人所处的六界当中，一股黑暗的势力也正在蠢蠢欲动。",
+      "latestChapter": {
+        "title": "第一百三十五回 庆元府",
+        "link": "https://read.zongheng.com/chapter/1267658/90106904.html"
+      },
+      "updateTime": "02-21 00:03",
+      "monthlyTicket": "20",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "21",
+      "name": "诡秘之上",
+      "link": "https://www.zongheng.com/detail/1010723",
+      "author": {
+        "name": "雄赳赳",
+        "link": "https://home.zongheng.com/show/userInfo/52464028.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/a3/5e/a35e91a2c23081b784a091565a3846d41731896188212.jpeg",
+        "alt": "诡秘之上"
+      },
+      "category": "武侠仙侠",
+      "status": "完结",
+      "description": "万族争霸，十国之战，群雄并起。\r\n身为帝陵守陵人一脉的少年白夜，从泰山脚下走出，肩负万古重任，与华夏传说中的众神争锋，脚踏诡秘序列诸神，走向星空。\r\n一场仙侠与克苏鲁两种体系的巅峰对决！",
+      "latestChapter": {
+        "title": "番外篇·除夕夜",
+        "link": "https://read.zongheng.com/chapter/1010723/84218925.html"
+      },
+      "updateTime": "11-16 01:29",
+      "monthlyTicket": "20",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "22",
+      "name": "江湖男儿",
+      "link": "https://www.zongheng.com/detail/1379211",
+      "author": {
+        "name": "阳子下",
+        "link": "https://home.zongheng.com/show/userInfo/48232054.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/e5/8b/e58b940a166c60b829f01bb0b76683221740640185579.jpeg",
+        "alt": "江湖男儿"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "泥腿子也能登天？他偏要逆天改命！\r\n商场官场情欲场，场场是战场。\r\n低处高处世间处，处处是江湖。\r\n且看一介凡夫俗子，如何权谋争渡，一路朝阳，步步攀登！",
+      "latestChapter": {
+        "title": "第57章  你就从了吧",
+        "link": "https://read.zongheng.com/chapter/1379211/90189589.html"
+      },
+      "updateTime": "03-01 08:08",
+      "monthlyTicket": "15",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "23",
+      "name": "五仙门",
+      "link": "https://www.zongheng.com/detail/953526",
+      "author": {
+        "name": "看得两叁言",
+        "link": "https://home.zongheng.com/show/userInfo/52140700.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/91/65/9165beef13ae67040002f88c89801de81715926508977.jpeg",
+        "alt": "五仙门"
+      },
+      "category": "武侠仙侠",
+      "status": "连载",
+      "description": "遥远的青山，偏僻的村落，平凡少年，只为生存，凡人生活却化作修仙之路，有谁是真，有谁是假？有谁能最后明月长伴！仙侠世界，从此开始。",
+      "latestChapter": {
+        "title": "第2197章 难缠老妖",
+        "link": "https://read.zongheng.com/chapter/953526/90189022.html"
+      },
+      "updateTime": "03-01 06:00",
+      "monthlyTicket": "14",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "24",
+      "name": "星辰之主",
+      "link": "https://www.zongheng.com/detail/325639",
+      "author": {
+        "name": "减肥专家",
+        "link": "https://home.zongheng.com/show/userInfo/53793.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/5e/92/5e92bc1fbd960a00a17aaff6b5a59e4d1740124513858.jpeg",
+        "alt": "星辰之主"
+      },
+      "category": "科幻",
+      "status": "连载",
+      "description": "世纪之交，人类懵懂着踏入星空，就此暴露在诸神的视线之下。少年罗南背负着祖父的罪孽，走出实验室，且看他：\n高举燃烧的笔记，脚踏诸神的尸骨；\n书写万物的格式，增删宇宙的星图。\n当知：万物皆备于我；必信：吾心即是宇宙。",
+      "latestChapter": {
+        "title": "第九百九十五章 局域网（上）",
+        "link": "https://read.zongheng.com/chapter/325639/90180182.html"
+      },
+      "updateTime": "02-28 11:29",
+      "monthlyTicket": "12",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "25",
+      "name": "盘龙神剑",
+      "link": "https://www.zongheng.com/detail/1340883",
+      "author": {
+        "name": "列夕",
+        "link": "https://home.zongheng.com/show/userInfo/52771140.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/59/fe/59fef5086759ce9c6f5566b6ec7248481728615157501.jpeg",
+        "alt": "盘龙神剑"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "少年王贤被师兄陷害，身中九百九十九剑不死！盘龙一怒，与少年合为一体，欲要从昆仑踏上诸天征程。不料一番变故，少年遇到魔渊主人......",
+      "latestChapter": {
+        "title": "第四百二十八章 军师来了",
+        "link": "https://read.zongheng.com/chapter/1340883/90188030.html"
+      },
+      "updateTime": "03-01 00:01",
+      "monthlyTicket": "12",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "26",
+      "name": "我在大唐斩妖十万次！神魔见我尽低眉",
+      "link": "https://www.zongheng.com/detail/1389624",
+      "author": {
+        "name": "一介白衣",
+        "link": "https://home.zongheng.com/show/userInfo/11396092.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/d6/72/d67286382d92f5274d399f52c198d6fe.jpeg",
+        "alt": "我在大唐斩妖十万次！神魔见我尽低眉"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "这条道路的尽头，亿万天魔垒成了天梯，铺在仙朝宫阙的废墟之上，佛祖背身低头，枯萎已久的拈花片片飞散，道尊在尸山血海里极目仰望，天梯之上，是无数的仙魔枯骨铸造而成的不朽王座。\r\n每一个生命都在野蛮生长，敬我们不死的欲望。",
+      "latestChapter": {
+        "title": "82、国……",
+        "link": "https://read.zongheng.com/chapter/1389624/90184526.html"
+      },
+      "updateTime": "02-28 21:00",
+      "monthlyTicket": "11",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "27",
+      "name": "人在末世，我能联通现实",
+      "link": "https://www.zongheng.com/detail/1365591",
+      "author": {
+        "name": "精英hr",
+        "link": "https://home.zongheng.com/show/userInfo/54345388.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/26/67/2667e168e7e0cc16c2b0ee80971507491733617848666.jpeg",
+        "alt": "人在末世，我能联通现实"
+      },
+      "category": "科幻",
+      "status": "连载",
+      "description": "末世的秦重，在遭遇自己人背叛后，差点死于非命，偶然间发现自己的手机，居然在雷暴天，神奇的能连通末世前的现实世界，手机的另一端是一位貌美如花，我见犹怜的女总裁孙小言。\r\n人在末世的秦重，缺粮、缺水、缺一切，女总裁在现实成为采购专业户，为秦重采购一切的生活物资，建立地下末日庇护所，而在十年后末世的秦重，进入庇护所，依靠庇护所中孙小言准备的生活物资，养活了末世三十万幸存者，成为末世中的王者。\r\n人在现实的孙小言，受到义哥的陷害，继承的家族企业面临破产，秦重大手一挥，必中彩票信息要不？牛市的股票大盘要不？一炒就暴热的货币信息要不？超厉害的科技数据要不？秦重用超时代的知识，帮助孙小言碾压一切小人，分分秒秒，将女总裁送上华国第一女首富，走向人生巅峰！\r\n秦重、孙小言两人在末世、现实紧密协作，末世的危机被他们一步步消弭殆尽，世界再次迎来了曙光，而一切降下帷幕之时，就是你我重逢之日！",
+      "latestChapter": {
+        "title": "第278章    吃人的大鸟",
+        "link": "https://read.zongheng.com/chapter/1365591/90189716.html"
+      },
+      "updateTime": "03-01 08:30",
+      "monthlyTicket": "11",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "28",
+      "name": "绝世剑神：君临天下",
+      "link": "https://www.zongheng.com/detail/1329806",
+      "author": {
+        "name": "一剑飘雪",
+        "link": "https://home.zongheng.com/show/userInfo/82093604.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/3b/30/3b30e6d9a2aed9174fe6cef794af3d011719226522138.jpeg",
+        "alt": "绝世剑神：君临天下"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "一朝觉醒，龙吟震天！青云直上，剑指苍穹！\r\n陆青云，携九霄龙魂，踏天骄之骨，铸无敌之路！",
+      "latestChapter": {
+        "title": "第一百三十五章 得寸进尺",
+        "link": "https://read.zongheng.com/chapter/1329806/90184115.html"
+      },
+      "updateTime": "02-28 20:01",
+      "monthlyTicket": "11",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "29",
+      "name": "大造化剑主",
+      "link": "https://www.zongheng.com/detail/1223839",
+      "author": {
+        "name": "六道沉沦",
+        "link": "https://home.zongheng.com/show/userInfo/19766588.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/4d/8f/4d8f4cc163df9bcf033bbe5572da408f1698937386810.jpeg",
+        "alt": "大造化剑主"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "少年陈锋惨遭背叛，因祸得福意外激活至宝造化神箓，从此自道院崛起，拜入宗门，践行武道仗剑纵横，镇压一切，与天争锋、与人争雄，夺造化掌乾坤斩万道。\n    大世浮沉天骄无数，独我一人称尊做主，震古烁今。",
+      "latestChapter": {
+        "title": "第二千三百五十八章 大危机",
+        "link": "https://read.zongheng.com/chapter/1223839/90189202.html"
+      },
+      "updateTime": "03-01 07:01",
+      "monthlyTicket": "11",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "30",
+      "name": "好戏登场",
+      "link": "https://www.zongheng.com/detail/1250673",
+      "author": {
+        "name": "鸟川鸣",
+        "link": "https://home.zongheng.com/show/userInfo/54394522.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/3f/dd/3fdd4116997ec3b670ee09b6542f26a31733912555745.jpeg",
+        "alt": "好戏登场"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "她财务自由，知性大方。\n他捉襟见肘，畏首畏尾。\n缘分从一场阴差阳错的闹剧开始，到生活的酸甜苦辣结束。\n在上海无数个日日夜夜里，时刻都有新的故事上演。\n大幕拉开，好戏登场！\n【又名：霸道多金女总裁恋上脱口秀小卡司的生活日常100例】",
+      "latestChapter": {
+        "title": "第五百二十五章 命运之瓶",
+        "link": "https://read.zongheng.com/chapter/1250673/90183104.html"
+      },
+      "updateTime": "02-28 18:00",
+      "monthlyTicket": "10",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "31",
+      "name": "步步高升：从省考状元到权力巅峰",
+      "link": "https://www.zongheng.com/detail/1387995",
+      "author": {
+        "name": "烟斗老哥",
+        "link": "https://home.zongheng.com/show/userInfo/2263464.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/a3/31/a331540378b0c5db4f9bb7f0edc6c8f21739265415260.jpeg",
+        "alt": "步步高升：从省考状元到权力巅峰"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "唐烨以省考第一的骄人成绩考入汉州市委办，却遭遇同学背刺被发配老干部局。\r\n晦暗蒙尘的人生因一场大火救下“原市委副书记”有所转折……\r\n面对市委书记秘书或挂职基层的抉择时，他出人意料地选择从乡镇出发。\r\n问苍茫大地，谁主沉浮？纵横仕途，唯有政绩才是硬通货！\r\n唐烨凭借超前格局、宽阔视野，灵活通润的处世哲学，在红利时代的浪潮下搏击长空，打造“千亿镇，万亿县”，继而步步高升……",
+      "latestChapter": {
+        "title": "第129章 唐镇长这么有面！",
+        "link": "https://read.zongheng.com/chapter/1387995/90182738.html"
+      },
+      "updateTime": "02-28 17:17",
+      "monthlyTicket": "9",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "32",
+      "name": "剑道仙宗",
+      "link": "https://www.zongheng.com/detail/1328135",
+      "author": {
+        "name": "暮江鱼",
+        "link": "https://home.zongheng.com/show/userInfo/55965118.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/62/5e/625ec3b722010d3ffeb71ab23199bde51739995943743.jpeg",
+        "alt": "剑道仙宗"
+      },
+      "category": "武侠仙侠",
+      "status": "连载",
+      "description": "少年洛商，生于边陲洛村，名取“商星”之意。霜降之日，他手提一柄木剑孤身离乡，只为寻找传说中能庇佑苍生的“神仙”。然而，江湖路远，仙途险恶，他很快发现——\r\n修仙者弹指山河碎，却冷眼笑众生如草芥；名门大派以道自诩，却暗藏屠城炼魂的秘辛。\r\n若仙不仁，何以奉仙？若剑无道，何以执剑？",
+      "latestChapter": {
+        "title": "第148章 以战神明",
+        "link": "https://read.zongheng.com/chapter/1328135/90180287.html"
+      },
+      "updateTime": "02-28 11:41",
+      "monthlyTicket": "8",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "33",
+      "name": "屠狗之辈",
+      "link": "https://www.zongheng.com/detail/1366450",
+      "author": {
+        "name": "关中老人",
+        "link": "https://home.zongheng.com/show/userInfo/2537638.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/65/15/65154c9318c1f20b687a666cd4d046091737505140955.jpeg",
+        "alt": "屠狗之辈"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "仗义每多屠狗辈，无情多是读书人。\r\n这是一个叫赵山河的小人物从小镇走向世界的故事……",
+      "latestChapter": {
+        "title": "第188章 拉开帷幕",
+        "link": "https://read.zongheng.com/chapter/1366450/90183800.html"
+      },
+      "updateTime": "02-28 19:11",
+      "monthlyTicket": "6",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "34",
+      "name": "剑问九州",
+      "link": "https://www.zongheng.com/detail/901197",
+      "author": {
+        "name": "卫河",
+        "link": "https://home.zongheng.com/show/userInfo/51700558.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/55/cc/55cc312510e45cdf0701e99f7395e50e1722239802745.jpeg",
+        "alt": "剑问九州"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "那一日，少年从江湖走，向九天去。万族林立的时代，且听长歌：仙路无始亦无终，唯有一剑问苍穹！",
+      "latestChapter": {
+        "title": "第1137章 乱峰会斗杀皇甫（二）",
+        "link": "https://read.zongheng.com/chapter/901197/90182445.html"
+      },
+      "updateTime": "02-28 16:33",
+      "monthlyTicket": "5",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "35",
+      "name": "第一天骄",
+      "link": "https://www.zongheng.com/detail/1401735",
+      "author": {
+        "name": "苏月夕",
+        "link": "https://home.zongheng.com/show/userInfo/3467218.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/96/75/9675123c0142d1de48836f8a84c2b1af.jpeg",
+        "alt": "第一天骄"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "天才，只是见我的门槛！",
+      "latestChapter": {
+        "title": "第四章 都是祖传的",
+        "link": "https://read.zongheng.com/chapter/1401735/90190009.html"
+      },
+      "updateTime": "03-01 09:03",
+      "monthlyTicket": "5",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "36",
+      "name": "太初神塔",
+      "link": "https://www.zongheng.com/detail/1329455",
+      "author": {
+        "name": "不吃荆芥",
+        "link": "https://home.zongheng.com/show/userInfo/82076872.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/6f/9f/6f9f6e200c2c706edff2513d1c411b1f.jpeg",
+        "alt": "太初神塔"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "道侣与人苟合，联合外人废修为、夺宝骨……\r\n绝望之际，叶尘开启太初塔，得大帝传承，修造化吞天诀、融苍龙宝骨，功参造化，横推万古。\r\n任你神朝圣地、诸天仙佛、太古天魔……我叶尘，一剑斩之！",
+      "latestChapter": {
+        "title": "第773章 三滴妖皇血！【第十更！】",
+        "link": "https://read.zongheng.com/chapter/1329455/90184943.html"
+      },
+      "updateTime": "02-28 20:50",
+      "monthlyTicket": "5",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "37",
+      "name": "道上青天",
+      "link": "https://www.zongheng.com/detail/1316455",
+      "author": {
+        "name": "六道蚂蚱",
+        "link": "https://home.zongheng.com/show/userInfo/51584363.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/fa/5f/fa5f8a863f15a473369b32cab4193d141740303395180.jpeg",
+        "alt": "道上青天"
+      },
+      "category": "武侠仙侠",
+      "status": "连载",
+      "description": "举头遥望，高到多高才是天？\r\n是日月之上的一层幕，还是隔绝方外的一块布？\r\n皆不是！\r\n大道青天，只是谁画下的一条线，三尺间。\r\n那天，我抓住了逝者的手，与之生死双修。\r\n那天，我低头闭眼不见天。\r\n那天，亦低头不可再见我！\r\n已有仙侠类完结老书《恶鬼当道》，质量保证！",
+      "latestChapter": {
+        "title": "第459章：我与我周旋",
+        "link": "https://read.zongheng.com/chapter/1316455/90187790.html"
+      },
+      "updateTime": "02-28 23:54",
+      "monthlyTicket": "5",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "38",
+      "name": "这个皇子不太正经",
+      "link": "https://www.zongheng.com/detail/1399570",
+      "author": {
+        "name": "琐星光",
+        "link": "https://home.zongheng.com/show/userInfo/53070515.html"
+      },
+      "cover": {
+        "url": "https://revo.zongheng.com/www/2024/images/9507ec3.png",
+        "alt": "这个皇子不太正经"
+      },
+      "category": "历史",
+      "status": "连载",
+      "description": "韩千魂穿大宁为皇室六子，本应封藩称王，却因憨厚尽失家业，沦为京城笑柄！\r\n正统血脉，巅峰出身，怎甘为人棋子？穿越而来，韩千誓改命运，刀锋所向，欲将昔日掠夺者通通镇压！\r\n安阳侯府李景璇，欲借联姻一事将“龙雪铁骑”当做聘礼，却被韩千霸道拒绝后收为开襟小娘子！\r\n韩千冷笑：昔日废物，今非昔比！\r\n自那憨厚的六皇子突然不正经起来，整个大宁都开始乱了！",
+      "latestChapter": {
+        "title": "第3章 真是雁过拔毛",
+        "link": "https://read.zongheng.com/chapter/1399570/90186868.html"
+      },
+      "updateTime": "03-01 00:15",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "39",
+      "name": "六道轮回塔",
+      "link": "https://www.zongheng.com/detail/1391556",
+      "author": {
+        "name": "不想早起",
+        "link": "https://home.zongheng.com/show/userInfo/84839512.html"
+      },
+      "cover": {
+        "url": "https://revo.zongheng.com/www/2024/images/9507ec3.png",
+        "alt": "六道轮回塔"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "天道无情，世有轮回。\r\n亘古时大战导致天道破碎，轮回遗失，从此再也无人登顶天道至尊之位。\r\n一代天骄被挖去神髓，被世人皆认为废人。\r\n意外修炼轮回天功，获得六道轮回塔，从而逆天改命，书写不一样的人生。",
+      "latestChapter": {
+        "title": "第13章：大笨蛋",
+        "link": "https://read.zongheng.com/chapter/1391556/90146562.html"
+      },
+      "updateTime": "02-25 00:58",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "40",
+      "name": "天命：从大业十二年开始",
+      "link": "https://www.zongheng.com/detail/1326470",
+      "author": {
+        "name": "赵子曰",
+        "link": "https://home.zongheng.com/show/userInfo/7798.html"
+      },
+      "cover": {
+        "url": "https://revo.zongheng.com/www/2024/images/9507ec3.png",
+        "alt": "天命：从大业十二年开始"
+      },
+      "category": "历史",
+      "status": "连载",
+      "description": "隋末，李善道初为求活，投奔了在瓦岗落草的同乡徐世绩，后经奋斗，与李世民并为当时双雄，一决胜负。",
+      "latestChapter": {
+        "title": "第四十五章 头功建得三军动",
+        "link": "https://read.zongheng.com/chapter/1326470/90182831.html"
+      },
+      "updateTime": "02-28 17:29",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "41",
+      "name": "扶摇九霄传",
+      "link": "https://www.zongheng.com/detail/1322076",
+      "author": {
+        "name": "遥看远山",
+        "link": "https://home.zongheng.com/show/userInfo/24477593.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/8d/73/8d7326ed788435095e5b93bf6e8b35dd1716940806424.jpeg",
+        "alt": "扶摇九霄传"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "前生潦倒而亡的赵寻安，重生十六岁历法更迭之际的中土大千。\r\n得昊天垂青，凭数十载岁月先知，夺诸多天骄气运机缘！\r\n以三重六轻十八得缘与凤凰争锋，引妖国公主青睐，入山川秘境修行，悟透财侣法地，傲然飞升大昆仑。\r\n后得五行真法、大道藏真经，取仙家文书悟法则因果，终究知晓中土大千之谜，步向无人可及之处！\r\n且看一介凡夫历劫难得新生重开天地，扶摇直上九万里！",
+      "latestChapter": {
+        "title": "第九百六十五章 生变 上",
+        "link": "https://read.zongheng.com/chapter/1322076/90182131.html"
+      },
+      "updateTime": "02-28 16:00",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "42",
+      "name": "问鼎：从一等功臣到权力巅峰",
+      "link": "https://www.zongheng.com/detail/1295762",
+      "author": {
+        "name": "晨星天使",
+        "link": "https://home.zongheng.com/show/userInfo/56205958.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/1e/d2/1ed2e02fc7f624d9daf64d82281cdf561731037996262.jpeg",
+        "alt": "问鼎：从一等功臣到权力巅峰"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "官场如战场，一步错，步步错。\r\n前世身为超级警察的沈青云因为劳累而亡，这辈子他重生成了一个官二代，且看沈青云如何步步为营，问鼎权力巅峰！",
+      "latestChapter": {
+        "title": "第1745章 实地调查",
+        "link": "https://read.zongheng.com/chapter/1295762/90186131.html"
+      },
+      "updateTime": "02-28 22:40",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "43",
+      "name": "寻宝全世界",
+      "link": "https://www.zongheng.com/detail/1234528",
+      "author": {
+        "name": "尼罗河",
+        "link": "https://home.zongheng.com/show/userInfo/54165914.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/d6/3d/d63d8ecb22dba91b675f91fe31c3404e.jpeg",
+        "alt": "寻宝全世界"
+      },
+      "category": "都市",
+      "status": "连载",
+      "description": "刚被拜金女友分手的张景，带着寻宝系统，来到了漂亮国。\n深埋地下的古币，公园水下的珍贵古董，他人遍寻不到的宝藏遗迹……\n在张景眼前一一现形！\n捡宝捡人两不误，寻宝破产的球后，揣着管家梦想的影视巨星，打扫卫生的天才歌手，被肥胖埋没的拳王，失去双亲的读书天才……\n从漂亮国开始，捡宝全世界！",
+      "latestChapter": {
+        "title": "第2520节 找钱，报死效",
+        "link": "https://read.zongheng.com/chapter/1234528/90182626.html"
+      },
+      "updateTime": "02-28 16:58",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "44",
+      "name": "大荒剑帝",
+      "link": "https://www.zongheng.com/detail/1198878",
+      "author": {
+        "name": "食堂包子",
+        "link": "https://home.zongheng.com/show/userInfo/205877.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/0a/95/0a954bc53f8de8732dd920b7fd2ad7e41698937271916.jpeg",
+        "alt": "大荒剑帝"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "绝境逢生，踏出天火渊的少年，方持剑在手，便一头闯进这场天地大劫！\n纵剑斩荆棘，苍穹染血时，且斗胆一问——纵观世间三千剑，我言第二谁第一？",
+      "latestChapter": {
+        "title": "第一千六百零二章 一剑扫乾坤",
+        "link": "https://read.zongheng.com/chapter/1198878/90183193.html"
+      },
+      "updateTime": "02-28 18:02",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "45",
+      "name": "我用阵法补天地",
+      "link": "https://www.zongheng.com/detail/1047034",
+      "author": {
+        "name": "提笔泼墨",
+        "link": "https://home.zongheng.com/show/userInfo/41840440.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/f4/1a/f41af1d24107d13fb5284e44ad57da341728529002106.jpeg",
+        "alt": "我用阵法补天地"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "所谓阵法，不离阴阳，不离天地自然。\n布阵者，乃借天地之力御敌。\n所布之阵，优以稳胜，劣以险胜。",
+      "latestChapter": {
+        "title": "第2117章、道衍劫火",
+        "link": "https://read.zongheng.com/chapter/1047034/90187333.html"
+      },
+      "updateTime": "02-28 23:25",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "46",
+      "name": "陆地键仙",
+      "link": "https://www.zongheng.com/detail/1005752",
+      "author": {
+        "name": "六如和尚",
+        "link": "https://home.zongheng.com/show/userInfo/12152557.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/dc/23/dc2337d697065cfca505df88774f82a61740030350423.jpeg",
+        "alt": "陆地键仙"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "仙之巅，傲世间，有我阿祖就有天，天下剑仙三百万，遇我也需尽低眉，我为键仙自当镇压世间一切敌，谁在称无敌，哪个言不败？",
+      "latestChapter": {
+        "title": "第1087章 炼狱",
+        "link": "https://read.zongheng.com/chapter/1005752/90181701.html"
+      },
+      "updateTime": "02-28 14:56",
+      "monthlyTicket": "4",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "47",
+      "name": "逆天邪神",
+      "link": "https://www.zongheng.com/detail/408586",
+      "author": {
+        "name": "火星引力",
+        "link": "https://home.zongheng.com/show/userInfo/188726.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/de/de/dedeaf9e9c9c0a2ce9c169220f69d6a71730192496892.jpeg",
+        "alt": "逆天邪神"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "掌天毒之珠，承邪神之血，修逆天之力，一代邪神，君临天下！\n\n\n【添加微信公众号：火星引力】",
+      "latestChapter": {
+        "title": "第2120章 世外厨神",
+        "link": "https://read.zongheng.com/chapter/408586/89442358.html"
+      },
+      "updateTime": "12-18 23:58",
+      "monthlyTicket": "3",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "48",
+      "name": "十天一天赋，成为吸血鬼的我太BUG了",
+      "link": "https://www.zongheng.com/detail/1367623",
+      "author": {
+        "name": "道三生",
+        "link": "https://home.zongheng.com/show/userInfo/2562022.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/db/de/dbde17010c1d86fb998378c354b045511735114976888.jpeg",
+        "alt": "十天一天赋，成为吸血鬼的我太BUG了"
+      },
+      "category": "科幻",
+      "status": "连载",
+      "description": "余贤身患渐冻症，为了活下去，不得不成为吸血鬼。\r\n谁知道因祸得福，他每隔十天左右就可以获得一个天赋能力。\r\n每个吸血鬼都拥有一个初始天赋。\r\n他是吸血鬼中的异类。\r\n他以光为食物。\r\n他是食光者！\r\n……\r\n……\r\n余贤：为了活下去，我不做人啦！",
+      "latestChapter": {
+        "title": "【202】太痛了",
+        "link": "https://read.zongheng.com/chapter/1367623/90186947.html"
+      },
+      "updateTime": "02-28 23:02",
+      "monthlyTicket": "3",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "49",
+      "name": "边军悍卒",
+      "link": "https://www.zongheng.com/detail/1363170",
+      "author": {
+        "name": "木有金箍",
+        "link": "https://home.zongheng.com/show/userInfo/56280719.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/c6/ba/c6ba0d07a1d89392b2ed952b9b0599c81739965399411.jpeg",
+        "alt": "边军悍卒"
+      },
+      "category": "历史",
+      "status": "连载",
+      "description": "大宗三年，冬。铁真族犯边，大宗王朝镇西军边城被困，战事吃紧。内有符王赵争，勾结黑巾盗起兵谋反，连下数城。\r\n大宗王朝顿时处在内忧外困，风雨飘摇之中。\r\n同年冬，林丰意外穿越至距边城八十里的胡西铺乡，岭兜子村烽火台，成为一名镇西军戍守烽火台的步弓手...",
+      "latestChapter": {
+        "title": "第322章 启动新项目",
+        "link": "https://read.zongheng.com/chapter/1363170/90189708.html"
+      },
+      "updateTime": "03-01 08:23",
+      "monthlyTicket": "3",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    },
+    {
+      "rank": "50",
+      "name": "混沌塔",
+      "link": "https://www.zongheng.com/detail/1321620",
+      "author": {
+        "name": "惊蛰落月",
+        "link": "https://home.zongheng.com/show/userInfo/83074388.html"
+      },
+      "cover": {
+        "url": "https://static.zongheng.com/upload/cover/64/5c/645cb16493deac4cea8c6bc1001b20ee1740036437402.jpeg",
+        "alt": "混沌塔"
+      },
+      "category": "玄幻奇幻",
+      "status": "连载",
+      "description": "女大三，抱金砖。女大三千，位列仙班。女大三十万，神界说了算。女大三千万，万界任你转。可我家娘子，大了9999万岁……",
+      "latestChapter": {
+        "title": "第829章 前往神灵谷",
+        "link": "https://read.zongheng.com/chapter/1321620/90188405.html"
+      },
+      "updateTime": "03-01 00:57",
+      "monthlyTicket": "3",
+      "platform": "纵横中文网",
+      "rankType": "月票榜",
+      "crawlTime": "2025-03-01 02:00:31"
+    }
+  ]
+}
