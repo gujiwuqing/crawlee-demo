@@ -10,3 +10,5 @@ src/scripts/juejin/frontend
 src/scripts/weibo/weibo-hot/2025-01-11
 src/scripts/qidian/yuepiao
 src/scripts/zongheng/yuepiao
+user-data
+src/scripts/zhihu/zhihu-hot
